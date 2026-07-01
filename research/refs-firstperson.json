@@ -1,0 +1,892 @@
+[
+  {
+    "title": "Reflections on Palantir (Medium镜像) — Nabeel Qureshi",
+    "url": "https://medium.com/@nabeelqu/reflections-on-palantir-52433cf95439",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2024,
+    "note": "Nabeel同篇反思的Medium版本",
+    "verified": false
+  },
+  {
+    "title": "Nabeel S. Qureshi 个人主页",
+    "url": "https://nabeelqu.co/",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "前Palantir FDE的个人博客/写作集合",
+    "verified": false
+  },
+  {
+    "title": "What I Learned As A Forward Deployed Engineer Working At An AI Startup",
+    "url": "https://medium.com/@het.trivedi05/what-i-learned-as-a-forward-deployed-engineer-working-at-an-ai-startup-6046e0c7e1fe",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2024,
+    "note": "Het Trivedi讲在Baseten做FDE的真实体会与上下文切换之痛",
+    "verified": true
+  },
+  {
+    "title": "The Definitive Guide to Forward Deployed Engineering — Vinoo Ganesh",
+    "url": "https://vinoo.io/writing/2026-02-05-forward-deployed-engineering/",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "前Palantir负责人以亲历视角讲FDE如何养成（Project Frontline）",
+    "verified": true
+  },
+  {
+    "title": "The Forward Deployed Engineer Playbook: A Practitioner's Field Manual",
+    "url": "https://conikeec.substack.com/p/the-forward-deployed-engineer-playbook",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "Chetan Conikee写的FDE实战手册（自称即将上岗）",
+    "verified": true
+  },
+  {
+    "title": "The Forward-Deployed Engineer Is No Longer Just a Customer-Facing Coder",
+    "url": "https://medium.com/@tentenco/the-forward-deployed-engineer-is-no-longer-just-a-customer-facing-coder-f55ec7c7ded0",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "Ewan Mak个人随笔，论FDE角色向上演进",
+    "verified": true
+  },
+  {
+    "title": "The Rise of the Forward Deployed Engineer — CCL Montante",
+    "url": "https://medium.com/@c.montante_42326/the-rise-of-the-forward-deployed-engineer-how-this-hybrid-role-is-reshaping-project-delivery-and-d948e1eff069",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "个人Medium长文，谈混合角色如何重塑交付",
+    "verified": false
+  },
+  {
+    "title": "The Rise of the Forward Deployed Engineer (FDE) in Tech and AI Startups",
+    "url": "https://medium.com/@harimarampally190/the-rise-of-the-forward-deployed-engineer-fde-in-tech-and-ai-startups-2ebada72d51f",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "Harikrishna Marampelly的个人Medium观察文",
+    "verified": false
+  },
+  {
+    "title": "Is the Forward-Deploying Engineer model the right approach?",
+    "url": "https://aiscale.substack.com/p/forward-deployed-engineers-are-the",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "AI Scale Substack对FDE模式的批判性思考",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineers: A Means To An End For AI Startups",
+    "url": "https://www.akashbajwa.co/p/forward-deployed-engineers-a-means",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "Akash Bajwa投资视角Substack长文",
+    "verified": false
+  },
+  {
+    "title": "The Forward-Deployed Engineer Is the New Management Consultant",
+    "url": "https://theproductjourney.substack.com/p/the-forward-deployed-engineer-is",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "Product Journey Substack：FDE是新一代管理咨询",
+    "verified": false
+  },
+  {
+    "title": "The new Hotness: Forward Deployed Engineer",
+    "url": "https://sfrancisatx.substack.com/p/the-new-hotness-forward-deployed",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "个人Substack随笔谈FDE走红",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineers, Special Compute Zones... — Pucek",
+    "url": "https://newsletter.pucek.com/p/forward-deployed-engineers-special",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "Pucek newsletter单期含FDE主题",
+    "verified": false
+  },
+  {
+    "title": "Why everyone wants to hire a Forward Deployed Engineer — 90,000 Hours by The Ken",
+    "url": "https://the-ken.com/newsletters/90000-hours/why-everyone-wants-to-hire-a-forward-deployed-engineer/",
+    "type": "media",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "The Ken旗下90000 Hours newsletter单期专题",
+    "verified": false
+  },
+  {
+    "title": "Palantir FDE Reviews — Glassdoor",
+    "url": "https://www.glassdoor.com/Reviews/Palantir-Technologies-Forward-Deployed-Engineer-Reviews-EI_IE236375.0,21_KO22,47.htm",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Glassdoor上Palantir FDE在职/离职真实评价",
+    "verified": true
+  },
+  {
+    "title": "Forward Deployed Engineer Interview Questions (跨公司) — Glassdoor",
+    "url": "https://www.glassdoor.com/Interview/forward-deployed-engineer-interview-questions-SRCH_KO0,25.htm",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "Glassdoor跨70家公司694条FDE面试题",
+    "verified": true
+  },
+  {
+    "title": "Palantir FDE: Role Offers Unique Challenges and Growth — Glassdoor员工评价",
+    "url": "https://www.glassdoor.com/Reviews/Employee-Review-Palantir-Technologies-E236375-RVW95364730.htm",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "单条Palantir FDE离职者长评",
+    "verified": false
+  },
+  {
+    "title": "OpenAI SWE (Applied AI) 面试经历 Nov 2025 — Exponent",
+    "url": "https://www.tryexponent.com/courses/ai-company-interview-experiences/openai-swe-applied-ai-nov-2025",
+    "type": "other",
+    "company": "OpenAI",
+    "lang": "en",
+    "year": 2025,
+    "note": "OpenAI Applied AI/FDE相邻岗位的亲历面试记录",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer Interview Questions: 2026 Prep Guide — Perspective AI",
+    "url": "https://getperspective.ai/blog/forward-deployed-engineer-interview-questions-2026-prep-guide",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE面试题与准备指南",
+    "verified": false
+  },
+  {
+    "title": "The Ultimate AI Research/Applied Engineer Interview Guide — Sundeep Teki",
+    "url": "https://www.sundeepteki.org/advice/the-ultimate-ai-research-engineer-interview-guide-cracking-openai-anthropic-google-deepmind-top-ai-labs",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "覆盖OpenAI/Anthropic/DeepMind的面试经验指南",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer Coaching / Career Program — Sundeep Teki",
+    "url": "https://www.sundeepteki.org/forward-deployed-engineer.html",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE转岗辅导项目页，含路径建议",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer Interview Prep (2026) — DataInterview",
+    "url": "https://www.datainterview.com/blog/forward-deployed-engineer-interview-prep",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE面试技能/薪资/题型准备",
+    "verified": false
+  },
+  {
+    "title": "Palantir FDE Associate Interview Guide 2025 — NoraHQ",
+    "url": "https://interview.norahq.com/interview-guides/palantir-technologies-forward-deployed-engineer-associate-interview-guide-2025",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "Palantir FDE Associate面试逐环节指南",
+    "verified": false
+  },
+  {
+    "title": "98 Forward Deployment Engineer Interview Questions — Adaface",
+    "url": "https://www.adaface.com/blog/forward-deployed-engineer-interview-questions/",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "98道FDE面试题清单",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer Interview Questions — startup.jobs",
+    "url": "https://startup.jobs/interview-questions/forward-deployed-engineer",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "startup.jobs聚合的FDE面试题",
+    "verified": false
+  },
+  {
+    "title": "ethyca/fde-takehome — Forward Deployed Engineering Take Home",
+    "url": "https://github.com/ethyca/fde-takehome",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "真实FDE take-home评测仓库（Fides集成）",
+    "verified": false
+  },
+  {
+    "title": "Why OpenAI Is Hiring Forward-Deployed AI Engineers Like Palantir — Interview Query",
+    "url": "https://www.interviewquery.com/p/openai-palantir-forward-deployed-ai-engineers",
+    "type": "other",
+    "company": "OpenAI",
+    "lang": "en",
+    "year": 2026,
+    "note": "对比OpenAI与Palantir的FDE岗位与面试",
+    "verified": false
+  },
+  {
+    "title": "What is the day-to-day of a Forward Deployed Engineer at Palantir? — Quora",
+    "url": "https://www.quora.com/What-is-the-day-to-day-of-a-Forward-Deployed-Engineer-at-Palantir",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Quora亲历者答Palantir FDE日常",
+    "verified": false
+  },
+  {
+    "title": "What is the career path for a forward deployed engineer at Palantir? — Quora",
+    "url": "https://www.quora.com/What-is-the-career-path-for-a-forward-deployed-engineer-at-Palantir",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Quora讨论Palantir FDE职业路径",
+    "verified": false
+  },
+  {
+    "title": "What is the interview process like at Palantir for FDE? — Quora",
+    "url": "https://www.quora.com/What-is-the-interview-process-like-at-Palantir-for-Forward-Deployed-Engineer",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Quora答Palantir FDE面试流程",
+    "verified": false
+  },
+  {
+    "title": "What does it mean to be 'forward deployed'? — Quora",
+    "url": "https://www.quora.com/What-does-it-mean-to-be-forward-deployed",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "Quora科普forward deployed含义",
+    "verified": false
+  },
+  {
+    "title": "Which pays more: Palantir FDE or SWE? — Quora",
+    "url": "https://www.quora.com/Which-pays-more-at-Palantir-assuming-the-same-level-of-experience-Forward-Deployed-Engineer-or-Software-Engineer-dev",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Quora比较Palantir FDE与SWE薪资",
+    "verified": false
+  },
+  {
+    "title": "Difference between Palantir FDE and FDSE positions? — Quora",
+    "url": "https://www.quora.com/What-is-the-difference-between-Palantirs-Forward-Deployed-Engineer-and-Forward-Deployed-Software-Engineer-positions",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Quora辨析FDE与FDSE区别",
+    "verified": false
+  },
+  {
+    "title": "Does Palantir FDE experience count as SWE experience? — Quora",
+    "url": "https://www.quora.com/Would-forward-deployment-engineering-experience-at-Palantir-account-for-experience-as-a-software-engineer-Will-one-be-able-to-make-a-switch-say-from-Palantir-deployment-engineer-to-Google-software-engineer",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Quora讨论FDE经历能否转SWE",
+    "verified": false
+  },
+  {
+    "title": "A day in the life of a Palantir Forward Deployed Software Engineer — Quora Space",
+    "url": "https://palantir.quora.com/A-day-in-the-life-of-a-Palantir-Forward-Deployed-Software-Engineer",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Palantir官方Quora Space的FDSE日常贴",
+    "verified": false
+  },
+  {
+    "title": "A Day in the Life of a Palantir FDSE — LinkedIn (O. Koliakin)",
+    "url": "https://www.linkedin.com/posts/o-koliakin_a-day-in-the-life-of-a-palantir-forward-deployed-activity-7391367385540329472-Jo7_",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "LinkedIn转述Palantir FDSE一天的个人帖",
+    "verified": false
+  },
+  {
+    "title": "Lessons from 1st year as Palantir FDE — LinkedIn (Shantanu Kale)",
+    "url": "https://www.linkedin.com/posts/shantanu-kale_palantirfoundry-palantir-forwarddeployedengineer-activity-7424911631479930880-9XWu",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "在职者分享Palantir FDE第一年心得",
+    "verified": false
+  },
+  {
+    "title": "How to be a great Forward Deployed Engineer at Palantir — LinkedIn",
+    "url": "https://www.linkedin.com/posts/simplyalam_at-palantir-i-learned-that-forward-deployed-activity-7364276357356216321-_Cwq",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "前Palantir人总结做好FDE的要点",
+    "verified": false
+  },
+  {
+    "title": "Lessons from 3 years as a Forward Deployed Engineer — LinkedIn (Adam Collins)",
+    "url": "https://www.linkedin.com/posts/adam99collins_palantir-forwarddeployedengineer-fde-activity-7424589684124758016-Fwot",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "三年FDE经验的个人总结帖",
+    "verified": false
+  },
+  {
+    "title": "Nobody wants the hottest job in tech... FDE traits — LinkedIn (David Cowan)",
+    "url": "https://www.linkedin.com/posts/davidcowen_nobody-wants-the-hottest-job-in-tech-the-activity-7438576479975710721-lQvY",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "投资人谈FDE成功者特质",
+    "verified": false
+  },
+  {
+    "title": "FDE Career Roadmap — Forward Deployed Engineer site",
+    "url": "https://www.forwarddeployedengineer.site/roadmap",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE转行路线图（技能/阶段）",
+    "verified": false
+  },
+  {
+    "title": "FDE Resources & Sources — Forward Deployed Engineer site",
+    "url": "https://www.forwarddeployedengineer.site/sources",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE文章/视频/指南资源聚合页",
+    "verified": false
+  },
+  {
+    "title": "How to Become a Forward Deployed Engineer: Complete Roadmap — FDE Academy",
+    "url": "https://fde.academy/blog/how-to-become-a-forward-deployed-engineer",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "成为FDE的完整路线",
+    "verified": false
+  },
+  {
+    "title": "FDE Role, Skills, Salary & Career Roadmap — GeeksforGeeks",
+    "url": "https://www.geeksforgeeks.org/blogs/forward-deployed-engineer-role-skills-salary-roadmap/",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "GeeksforGeeks的FDE路线综述",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer Roadmap — FDE Pulse",
+    "url": "https://fdepulse.com/career/forward-deployed-engineer-roadmap/",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE Pulse的转岗路线",
+    "verified": false
+  },
+  {
+    "title": "How to Become a Forward Deployed Engineer in 2026 — SkillScouter",
+    "url": "https://skillscouter.com/how-to-become-a-forward-deployed-engineer/",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "2026版FDE入门指南",
+    "verified": false
+  },
+  {
+    "title": "How to Become a Forward Deployed Engineer: The Complete Roadmap — FDE Today",
+    "url": "https://fde.today/topic/37/how-to-become-a-forward-deployed-engineer-the-complete-roadmap",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE Today社区的成长路线讨论",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer — Career Roadmap — JobCannon",
+    "url": "https://jobcannon.io/career-roadmap/forward-deployed-engineer",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "JobCannon的FDE职业路线",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer Preparation Guide 2026 — explainx.ai",
+    "url": "https://explainx.ai/blog/forward-deployed-engineer-preparation-guide-2026",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE面试与职业准备指南",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer: Role, Skills & Pay [2026] — Kunal Ganglani",
+    "url": "https://www.kunalganglani.com/blog/forward-deployed-engineer-role",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "个人博客的FDE角色/薪资解读",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer: Your 2026 Startup Career Guide — Underdog.io",
+    "url": "https://underdog.io/blog/forward-deployed-engineer-16980",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "面向求职者的FDE创业公司职业指南",
+    "verified": false
+  },
+  {
+    "title": "AA218 Palantir's FDSE: Revolution or Rebrand? — Apple Podcasts",
+    "url": "https://podcasts.apple.com/md/podcast/aa218-palantirs-forward-deployed-software-engineer/id1568557596?i=1000715413728",
+    "type": "podcast",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Arguing Agile单集解构Palantir FDSE（Apple）",
+    "verified": false
+  },
+  {
+    "title": "AA218 Palantir's FDSE: Revolution or Rebrand? — Buzzsprout",
+    "url": "https://www.buzzsprout.com/1781319/episodes/17434674-aa218-palantir-s-forward-deployed-software-engineer-revolution-or-rebrand",
+    "type": "podcast",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "同集的Buzzsprout托管页",
+    "verified": false
+  },
+  {
+    "title": "How Palantir built the ultimate founder factory | Nabeel Qureshi — Lenny's Podcast (Spotify)",
+    "url": "https://open.spotify.com/episode/5snBkfW87dFRwpv39zkB6N",
+    "type": "podcast",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "Lenny对谈前Palantir FDE Nabeel（Spotify单集）",
+    "verified": false
+  },
+  {
+    "title": "How Palantir built the ultimate founder factory | Nabeel Qureshi — iHeart",
+    "url": "https://www.iheart.com/podcast/867-lennys-podcast-product-car-98064177/episode/how-palantir-built-the-ultimate-founder-274827615/",
+    "type": "podcast",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "同集Lenny's Podcast的iHeart页",
+    "verified": false
+  },
+  {
+    "title": "Palantir Forward Deployed Engineer 电面 — 一亩三分地面经",
+    "url": "https://www.1point3acres.com/bbs/interview/palantir-software-engineer-199863.html",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "一亩三分地Palantir FDE电面真实面经",
+    "verified": false
+  },
+  {
+    "title": "Palantir OA分享 & HR吐槽 — 一亩三分地面经",
+    "url": "https://www.1point3acres.com/bbs/interview/software-engineer-563708.html",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "一亩三分地Palantir OA与流程吐槽",
+    "verified": false
+  },
+  {
+    "title": "Palantir 新鲜Virtual 面试挂经 — 一亩三分地",
+    "url": "https://www.1point3acres.com/bbs/thread-773124-1-1.html",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "一亩三分地Palantir virtual onsite挂经",
+    "verified": false
+  },
+  {
+    "title": "扒一八我面 02 Palantir onsite — 一亩三分地面经",
+    "url": "https://www.1point3acres.com/bbs/interview/palantir-software-engineer-428588.html",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "一亩三分地Palantir onsite详细复盘",
+    "verified": false
+  },
+  {
+    "title": "Palantir面试高频题汇总 — 一亩三分地淘帖",
+    "url": "https://www.1point3acres.com/bbs/collection/229747",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "一亩三分地Palantir高频面试题合集",
+    "verified": false
+  },
+  {
+    "title": "公司:Palantir 面经标签页 — 一亩三分地",
+    "url": "https://www.1point3acres.com/bbs/tag/palantir-847-25.html",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "一亩三分地Palantir面经/讨论标签聚合",
+    "verified": false
+  },
+  {
+    "title": "Palantir OA — 1024 BBS",
+    "url": "https://1o24bbs.com/t/topic/16365",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "1024BBS上的Palantir OA讨论",
+    "verified": false
+  },
+  {
+    "title": "回顾 Palantir：八年之旅的反思 — CSDN",
+    "url": "https://blog.csdn.net/2301_79342058/article/details/149585268",
+    "type": "cn-article",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "CSDN对Nabeel八年反思的中文译介",
+    "verified": false
+  },
+  {
+    "title": "一硅谷老码农骑驴找马失败的经历 — OFweek",
+    "url": "https://www.ofweek.com/ai/2024-04/ART-201721-8500-30632801.html",
+    "type": "cn-article",
+    "company": null,
+    "lang": "zh",
+    "year": 2024,
+    "note": "硅谷工程师第一视角求职/转岗经历",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed, Episode 1: The Bitter Lesson",
+    "url": "https://www.forwarddeployed.com/p/forward-deployed-episode-1-the-bitter",
+    "type": "podcast",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "专门的Forward Deployed播客，Noah Brier与LangChain的Lance Martin主持",
+    "verified": true
+  },
+  {
+    "title": "From AI Strategy to Execution: How FDE Is Closing the Enterprise Gap",
+    "url": "https://www.youtube.com/watch?v=n_X_JZwt7S4",
+    "type": "youtube",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "YouTube分享FDE如何弥合企业AI落地鸿沟",
+    "verified": false
+  },
+  {
+    "title": "OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE — 创业邦",
+    "url": "https://m.cyzone.cn/article/837664.html",
+    "type": "cn-article",
+    "company": "OpenAI",
+    "lang": "zh",
+    "year": 2026,
+    "note": "创业邦版硅谷101 FDE解读",
+    "verified": false
+  },
+  {
+    "title": "How I Cracked Palantir Technical Interview Guide 2026 — LinkJob",
+    "url": "https://www.linkjob.ai/interview-questions/palantir-technical-interview-questions-experience-tips/",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "第一视角Palantir技术面通关经验",
+    "verified": false
+  },
+  {
+    "title": "How I Passed the OpenAI Software Engineer Interview in 2026 — LinkJob",
+    "url": "https://www.linkjob.ai/interview-questions/openai-software-engineer-interview/",
+    "type": "other",
+    "company": "OpenAI",
+    "lang": "en",
+    "year": 2026,
+    "note": "第一视角OpenAI SWE/Applied AI面试通关（作者lupin裸投）",
+    "verified": true
+  },
+  {
+    "title": "How to Get Hired at OpenAI, Anthropic & DeepMind in 2026 — Sundeep Teki",
+    "url": "https://www.sundeepteki.org/advice/how-to-get-hired-at-openai-anthropic-and-google-deepmind-in-2026",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "三大AI实验室求职策略指南",
+    "verified": false
+  },
+  {
+    "title": "What Forward Deployed Engineering Becomes Next (career after FDE) — FDE Academy",
+    "url": "https://fde.academy/blog/forward-deployed-engineer-career-after-fde",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "谈FDE之后的职业去向",
+    "verified": false
+  },
+  {
+    "title": "The FDE Playbook: Structure, Run, Scale an FDE Function — Perspective AI",
+    "url": "https://getperspective.ai/blog/the-forward-deployed-engineer-playbook-how-to-structure-run-and-scale-an-fde-function-in-2026",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "如何搭建/运营/扩展FDE团队的实操手册",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineers: Everything You Need to Know — Sparrow Genie",
+    "url": "https://www.sparrowgenie.com/blog/forward-deployed-engineer",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE角色全解综述",
+    "verified": false
+  },
+  {
+    "title": "Palantir's forward deployed engineers (Shorts)",
+    "url": "https://www.youtube.com/shorts/KJbfVs6yM3k",
+    "type": "youtube",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "YouTube短视频讲Palantir FDE",
+    "verified": false
+  },
+  {
+    "title": "Life at Palantir (FDSE视角)",
+    "url": "https://www.youtube.com/watch?v=ydrDSQeh1JM",
+    "type": "youtube",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "Palantir官方/员工视角的工作生活视频",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer vs Applied AI Engineer (2026) — FDE Academy",
+    "url": "https://fde.academy/blog/forward-deployed-engineer-vs-applied-ai-engineer",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "辨析FDE与Applied AI Engineer差异",
+    "verified": false
+  },
+  {
+    "title": "Demo很漂亮，落地没人用：AI公司为什么开始抢FDE？ — 腾讯云开发者社区",
+    "url": "https://cloud.tencent.com/developer/article/2682316",
+    "type": "cn-article",
+    "company": null,
+    "lang": "zh",
+    "year": 2026,
+    "note": "腾讯云社区剖析FDE兴起逻辑：模型不是瓶颈，落地集成才是",
+    "verified": true
+  },
+  {
+    "title": "AI's 'FDEs' go from Forward Deployed Engineers to Entities (ARD #68) — Michael Parekh",
+    "url": "https://michaelparekh.substack.com/p/ais-forward-deployment-fdes-go-from",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "Michael Parekh newsletter单期谈FDE模式制度化",
+    "verified": true
+  },
+  {
+    "title": "Forward Deployed Engineer Guide (2026) — AY Automate",
+    "url": "https://www.ayautomate.com/blog/forward-deployed-ai-engineers",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "AY Automate的FDE角色与落地指南",
+    "verified": false
+  },
+  {
+    "title": "ElevenLabs Forward Deployed Engineer Interview Guide — Exponent",
+    "url": "https://www.tryexponent.com/guides/elevenlabs-forward-deployed-engineer-interview",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "ElevenLabs FDE面试样题与流程",
+    "verified": false
+  },
+  {
+    "title": "Palantir FDSE Phone->Video->Onsite 面经 — 一亩三分地",
+    "url": "https://www.1point3acres.com/bbs/thread-1124063-1-1.html",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "一亩三分地Palantir FDSE全流程面经",
+    "verified": false
+  },
+  {
+    "title": "Palantir intern technical 面经 — 一亩三分地",
+    "url": "https://www.1point3acres.com/bbs/thread-1086497-1-1.html",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "一亩三分地Palantir实习技术面经",
+    "verified": false
+  },
+  {
+    "title": "[Interview Experience] Palantir — 一亩三分地",
+    "url": "https://www.1point3acres.com/bbs/thread-1086564-1-1.html",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "一亩三分地Palantir面试经历贴",
+    "verified": false
+  },
+  {
+    "title": "公司:Palantir 面经标签页(3) — 一亩三分地",
+    "url": "https://www.1point3acres.com/bbs/tag/palantir-847-3.html",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "一亩三分地Palantir面经聚合（更多页）",
+    "verified": false
+  },
+  {
+    "title": "在Palantir Technologies 工作是什么感受？ — 知乎问答",
+    "url": "https://www.zhihu.com/question/25368554",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "知乎问答：在Palantir工作的真实感受",
+    "verified": false
+  },
+  {
+    "title": "Palantir 面试攻略 — offerhacks (WordPress)",
+    "url": "https://offerhacks.wordpress.com/tag/palantir/",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "个人博客offerhacks的Palantir面试经验合集",
+    "verified": false
+  },
+  {
+    "title": "Palantir SDE Interview: System Design + High Quality Code — ProgramHelp",
+    "url": "https://programhelp.net/en/vo/palantir-sde-interview-system-design-high-quality-code/",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Palantir工程面试系统设计与代码复盘",
+    "verified": false
+  },
+  {
+    "title": "What Does a Forward Deployed Engineer Do? (Role + Salary Guide) — Recruiting from Scratch",
+    "url": "https://www.recruitingfromscratch.com/blog/what-does-a-forward-deployed-engineer-do-role-salary-guide",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE角色与薪资指南",
+    "verified": false
+  },
+  {
+    "title": "What Is a Forward Deployed Engineer? The Complete Guide — Netguru",
+    "url": "https://www.netguru.com/blog/forward-deployed-engineer-role-guide",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "Netguru对FDE角色的完整解读",
+    "verified": false
+  }
+]

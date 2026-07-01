@@ -1,0 +1,832 @@
+[
+  {
+    "title": "a16z on X: \"The forward deployed engineer is the hottest job in startups right now\"",
+    "url": "https://x.com/a16z/status/1930774473445142934",
+    "type": "x-thread",
+    "company": "a16z",
+    "lang": "en",
+    "year": 2025,
+    "note": "a16z 官方推文，宣称 FDE 是当下创业圈最火职位，配套长文。",
+    "verified": true
+  },
+  {
+    "title": "Andrew Ng on X: \"One of the new, buzzy jobs in Silicon Valley is the AI Forward Deployed Engineer (FDE)\"",
+    "url": "https://x.com/AndrewYNg/status/2061477558693384395",
+    "type": "x-thread",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "吴恩达发推解释 AI FDE 嵌入客户组织定制 agentic workflow 的趋势。",
+    "verified": true
+  },
+  {
+    "title": "Nabeel S. Qureshi on X: \"Wrote a new essay, reflecting on my time at Palantir\"",
+    "url": "https://x.com/nabeelqu/status/1846280013118951770",
+    "type": "x-thread",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2024,
+    "note": "前 Palantir FDE Nabeel 发推宣布其《Reflections on Palantir》长文，广为流传。",
+    "verified": true
+  },
+  {
+    "title": "Joe Schmidt IV (@joeschmidtiv) on X",
+    "url": "https://x.com/joeschmidtiv/status/1902794289702371451",
+    "type": "x-thread",
+    "company": "a16z",
+    "lang": "en",
+    "year": 2025,
+    "note": "写 a16z FDE 爆款文的合伙人 Joe Schmidt 本人 X 帖。",
+    "verified": true
+  },
+  {
+    "title": "Palantir OG on X: \"$PLTR Forward-deployed engineer: The complete guide for modern enterprise AI SaaS\"",
+    "url": "https://x.com/PalantirOg/status/1999109056649134129",
+    "type": "x-thread",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Palantir 投资者社区账号发布的 FDE 深度指南长推文。",
+    "verified": true
+  },
+  {
+    "title": "No Priors (@NoPriorsPod) on X",
+    "url": "https://x.com/NoPriorsPod",
+    "type": "x-thread",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "No Priors 播客官方 X，曾发布 Palantir FDE 主题单集。",
+    "verified": false
+  },
+  {
+    "title": "Garry Tan on LinkedIn: Forward Deployed Agent Engineer",
+    "url": "https://www.linkedin.com/posts/garrytan_forward-deployed-engineer-activity-7349490865171570690-WiTt",
+    "type": "other",
+    "company": "Y Combinator",
+    "lang": "en",
+    "year": 2025,
+    "note": "YC CEO Garry Tan 谈 forward deployed (agent) engineer 的社媒帖。",
+    "verified": true
+  },
+  {
+    "title": "a16z on LinkedIn: The forward deployed engineer is the hottest job",
+    "url": "https://www.linkedin.com/posts/a16z_the-forward-deployed-engineer-is-the-hottest-activity-7338332349362802691-7cTi",
+    "type": "other",
+    "company": "a16z",
+    "lang": "en",
+    "year": 2025,
+    "note": "a16z 在 LinkedIn 转发 FDE 爆款论点，引发大量讨论。",
+    "verified": true
+  },
+  {
+    "title": "Y Combinator on LinkedIn: How FDEs drove the AI boom — Bob McGrew",
+    "url": "https://www.linkedin.com/posts/y-combinator_bob-mcgrew-helped-build-some-of-the-most-activity-7370818214689304576-Xqy-",
+    "type": "other",
+    "company": "Y Combinator",
+    "lang": "en",
+    "year": 2025,
+    "note": "YC 官方帖，宣传 Bob McGrew 讲 FDE 如何推动 AI 浪潮。",
+    "verified": true
+  },
+  {
+    "title": "The FDE Playbook for AI Startups with Bob McGrew — YC Startup Library",
+    "url": "https://www.ycombinator.com/library/Mt-the-fde-playbook-for-ai-startups-with-bob-mcgrew",
+    "type": "podcast",
+    "company": "Y Combinator",
+    "lang": "en",
+    "year": 2025,
+    "note": "YC Lightcone 单集：前 OpenAI/Palantir 的 Bob McGrew 讲 FDE 打法（已打开确认）。",
+    "verified": true
+  },
+  {
+    "title": "The FDE Playbook for AI Startups with Bob McGrew — Lightcone Podcast (Spotify)",
+    "url": "https://open.spotify.com/episode/2nYYcrXYaI52xaAF6C0Ocv",
+    "type": "podcast",
+    "company": "Y Combinator",
+    "lang": "en",
+    "year": 2025,
+    "note": "同一 Lightcone × Bob McGrew FDE 单集的 Spotify 版。",
+    "verified": true
+  },
+  {
+    "title": "The Rise of the Forward Deployed Engineer — YC Lightcone (YouTube Shorts)",
+    "url": "https://www.youtube.com/shorts/EL2YIn5cLig",
+    "type": "youtube",
+    "company": "Y Combinator",
+    "lang": "en",
+    "year": 2025,
+    "note": "YC Lightcone FDE 单集的短视频剪辑，称其为 AI 最火职位。",
+    "verified": true
+  },
+  {
+    "title": "How Palantir built the ultimate founder factory | Nabeel S. Qureshi — Lenny's Podcast",
+    "url": "https://www.lennysnewsletter.com/p/inside-palantir-nabeel-qureshi",
+    "type": "podcast",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "Lenny 播客访谈前 Palantir FDE Nabeel，深聊 FDE 模式为何造就产品领袖。",
+    "verified": true
+  },
+  {
+    "title": "Ex-OpenAI's Bob McGrew: 2025 is the Year of Reasoning — Sequoia Training Data",
+    "url": "https://www.sequoiacap.com/podcast/training-data-bob-mcgrew/",
+    "type": "podcast",
+    "company": "OpenAI",
+    "lang": "en",
+    "year": 2025,
+    "note": "红杉 Training Data 播客访谈 Bob McGrew，涉及 Palantir FDE 与推理模型。",
+    "verified": true
+  },
+  {
+    "title": "How AI Is Reshaping IT Services from the Inside — AI + a16z (Apple Podcasts)",
+    "url": "https://podcasts.apple.com/us/podcast/how-ai-is-reshaping-it-services-from-the-inside/id1740178076?i=1000758627143",
+    "type": "podcast",
+    "company": "a16z",
+    "lang": "en",
+    "year": 2026,
+    "note": "AI+a16z 播客谈 FDE 趋势对 IT 服务市场的颠覆。",
+    "verified": true
+  },
+  {
+    "title": "Ep 153: Palantir CTO Shyam Sankar on Heretics, AI Weapons — American Optimist (Spotify)",
+    "url": "https://open.spotify.com/episode/3GnIkMO65b1fFU1SJuFnB9",
+    "type": "podcast",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "Joe Lonsdale 访谈 Palantir CTO、FDE 之父 Shyam Sankar。",
+    "verified": true
+  },
+  {
+    "title": "Ep 153: Palantir CTO Shyam Sankar — Joe Lonsdale blog notes",
+    "url": "https://blog.joelonsdale.com/p/ep-153-palantir-cto-shyam-sankar",
+    "type": "podcast",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "上述 Shyam Sankar 单集的图文 show notes。",
+    "verified": true
+  },
+  {
+    "title": "Mission Over Money & The State of Defense Tech with Shyam Sankar | E1908 — This Week in Startups",
+    "url": "https://open.spotify.com/episode/5UYRQirPUAhi5psAckkwQa",
+    "type": "podcast",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "TWiST 访谈 Shyam Sankar，谈 Palantir 与 FDE 文化。",
+    "verified": true
+  },
+  {
+    "title": "AA218 - Palantir's Forward Deployed Software Engineer: Revolution or Rebrand? — Arguing Agile",
+    "url": "https://arguingagile.com/episode/aa218-palantirs-forward-deployed-software-engineer-revolution-or-rebrand",
+    "type": "podcast",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "Arguing Agile 播客辩论 FDSE 是创新还是换皮。",
+    "verified": true
+  },
+  {
+    "title": "Latent Space: The AI Engineer Podcast (Substack)",
+    "url": "https://www.latent.space/podcast",
+    "type": "podcast",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "Latent Space 播客主页，含 Palantir 系/FDE 相关单集（如 Goodfire）。",
+    "verified": true
+  },
+  {
+    "title": "[AINews] Founders and Forward Deployed Engineers — Latent Space",
+    "url": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+    "type": "company-blog",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "Latent Space AINews 专题，聚焦创始人与 FDE 话题。",
+    "verified": true
+  },
+  {
+    "title": "No Priors: Artificial Intelligence | Technology | Startups — Show (Spotify)",
+    "url": "https://open.spotify.com/show/0O65xhqvGVhpgdIrrdlEYk",
+    "type": "podcast",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "No Priors 播客，曾有 Palantir FDE 主题单集讨论。",
+    "verified": false
+  },
+  {
+    "title": "Lightcone Podcast — YC Library carousel",
+    "url": "https://www.ycombinator.com/library/carousel/Lightcone%20Podcast",
+    "type": "podcast",
+    "company": "Y Combinator",
+    "lang": "en",
+    "year": 2025,
+    "note": "YC Lightcone 播客合集入口，含 FDE 单集。",
+    "verified": true
+  },
+  {
+    "title": "What is Forward Deployed Engineer (FDE) Role? — YouTube",
+    "url": "https://www.youtube.com/watch?v=7JlEs6zyB_U",
+    "type": "youtube",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "讲解 FDE 角色定义的科普视频。",
+    "verified": true
+  },
+  {
+    "title": "How to Become a Forward Deployed Engineer (2026) | Complete Roadmap — YouTube",
+    "url": "https://www.youtube.com/watch?v=_oUd8ebf1w8",
+    "type": "youtube",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE 入门/转行路线图教程视频。",
+    "verified": true
+  },
+  {
+    "title": "Forward Deployed Engineer Interviews (with AWS FDE Leader) — YouTube",
+    "url": "https://www.youtube.com/watch?v=qZgErBZk0GY",
+    "type": "youtube",
+    "company": "AWS",
+    "lang": "en",
+    "year": 2025,
+    "note": "与 AWS FDE 负责人对谈 FDE 面试。",
+    "verified": true
+  },
+  {
+    "title": "Day in a life of an FDE (Forward Deployed AI Engineer) — YouTube",
+    "url": "https://www.youtube.com/watch?v=uCOD2I6or9g",
+    "type": "youtube",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE 本人记录的工作日常 vlog（已打开确认标题）。",
+    "verified": true
+  },
+  {
+    "title": "Day in the Life of an FDE — YouTube",
+    "url": "https://www.youtube.com/watch?v=SdneobvQOi4",
+    "type": "youtube",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Deployment Strategist 视角的 FDE 一天 vlog。",
+    "verified": true
+  },
+  {
+    "title": "Forward Deployed AI Engineers — YouTube Shorts (Palantir/MongoDB)",
+    "url": "https://www.youtube.com/shorts/J-LhPVkT4VQ",
+    "type": "youtube",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE 话题短视频，标签涉及 Palantir、MongoDB。",
+    "verified": true
+  },
+  {
+    "title": "How Shyam Sankar Created Palantir's Forward Deployed Engineer — YouTube Shorts",
+    "url": "https://www.youtube.com/shorts/LkX_J_rX2x4",
+    "type": "youtube",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "讲述 Shyam Sankar 如何首创 FDE 模式的短视频。",
+    "verified": true
+  },
+  {
+    "title": "How to Win in the Age of AI and Autonomy | Shyam Sankar on TBPN — YouTube",
+    "url": "https://www.youtube.com/watch?v=F5Mkd4C_SX8",
+    "type": "youtube",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "TBPN 节目访谈 Shyam Sankar，涉及 FDE 不可照搬论。",
+    "verified": true
+  },
+  {
+    "title": "Shyam Sankar Is Trying To Mobilize A Country | Palantir CTO Interview — YouTube",
+    "url": "https://www.youtube.com/watch?v=bK4CfLlT9HM",
+    "type": "youtube",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "Palantir CTO 深度访谈视频，谈工程文化与 FDE。",
+    "verified": true
+  },
+  {
+    "title": "Palantir CTO on The SaaS Apocalypse & Preventing The Next World War | a16z — YouTube",
+    "url": "https://www.youtube.com/watch?v=1LcH4lP9XbA",
+    "type": "youtube",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "a16z 频道对话 Shyam Sankar，谈 FDE 与企业 AISaaS。",
+    "verified": true
+  },
+  {
+    "title": "Ep 64: The Palantir Interview with Joe Lonsdale & Dr. Alex Karp — YouTube",
+    "url": "https://www.youtube.com/watch?v=TEfTVozgiNs",
+    "type": "youtube",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2024,
+    "note": "Palantir 联创 Lonsdale 与 CEO Karp 对谈，溯源 FDE 文化。",
+    "verified": true
+  },
+  {
+    "title": "Latent Space — YouTube channel",
+    "url": "https://www.youtube.com/channel/UCxBcwypKK-W3GHd_RZ9FZrQ",
+    "type": "youtube",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "Latent Space 播客的 YouTube 频道，含 FDE 相关单集视频。",
+    "verified": true
+  },
+  {
+    "title": "Rise of the Forward Deployed Engineer | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=47951082",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "HN 讨论帖：FDE 崛起，热评\"老酒装新瓶\"。",
+    "verified": true
+  },
+  {
+    "title": "I analyzed 1000 forward deployed engineering jobs – here's what I learned | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=45970395",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "HN 帖：作者分析 1000 个 FDE 岗位的发现，评论热烈。",
+    "verified": true
+  },
+  {
+    "title": "Ask HN: What's the Deal with Forward Deployed Engineers? | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=47542553",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "Ask HN：到底什么是 FDE、值不值得做的讨论。",
+    "verified": true
+  },
+  {
+    "title": "The Forward Deployed Engineer | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=44361334",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "HN 讨论 FDE 角色定位与工程/产品边界。",
+    "verified": true
+  },
+  {
+    "title": "What are Forward Deployed Engineers, and why are they so in demand? | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=44889948",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "HN 讨论 FDE 为何突然抢手（关联 Pragmatic Engineer 文）。",
+    "verified": true
+  },
+  {
+    "title": "Forward Deployed Engineers | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=46508595",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "HN FDE 主题讨论帖。",
+    "verified": true
+  },
+  {
+    "title": "Ask HN comment thread: What is a forward deployed engineer | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=42581443",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2024,
+    "note": "HN 评论解释 FDE 是 Palantir 等常见对客工程角色。",
+    "verified": true
+  },
+  {
+    "title": "What is a forward deployed engineer? (thread) | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=42581157",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2024,
+    "note": "HN 关于 FDE 定义与产品工程区别的讨论。",
+    "verified": true
+  },
+  {
+    "title": "What the hell is a \"forward deployed engineer\" | Hacker News (2016)",
+    "url": "https://news.ycombinator.com/item?id=11647671",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2016,
+    "note": "早期 HN 帖，吐槽\"forward deployed/business cultivation engineer\"头衔。",
+    "verified": true
+  },
+  {
+    "title": "A forward-deployed engineer is a fancy title... | Hacker News (2016)",
+    "url": "https://news.ycombinator.com/item?id=11647755",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2016,
+    "note": "早期 HN 评论：FDE 即长驻客户现场的工程师。",
+    "verified": true
+  },
+  {
+    "title": "I think Anthropic and OpenAI have found product-market fit | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=48296794",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "HN 热帖讨论两大实验室靠 FDE/部署模式找到 PMF。",
+    "verified": true
+  },
+  {
+    "title": "Anthropic Interview - Applied AI / Forward Deployed type role? | Blind",
+    "url": "https://www.teamblind.com/post/anthropic-interview-applied-ai-forward-deployed-type-role-yepbq8wa",
+    "type": "forum",
+    "company": "Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "Blind 匿名社区讨论 Anthropic Applied AI/FDE 岗位面试。",
+    "verified": true
+  },
+  {
+    "title": "Trading Margin for Moat: Why the Forward Deployed Engineer Is the Hottest Job in Startups — a16z",
+    "url": "https://a16z.com/services-led-growth/",
+    "type": "company-blog",
+    "company": "a16z",
+    "lang": "en",
+    "year": 2025,
+    "note": "引爆全网讨论的 a16z FDE 长文（Joe Schmidt 等执笔）。",
+    "verified": true
+  },
+  {
+    "title": "The Palantirization of everything — a16z",
+    "url": "https://a16z.com/the-palantirization-of-everything/",
+    "type": "company-blog",
+    "company": "a16z",
+    "lang": "en",
+    "year": 2025,
+    "note": "a16z 论 Palantir 化与 FDE 模式向全行业扩散。",
+    "verified": true
+  },
+  {
+    "title": "Introducing the a16z FDE Fellowship — a16z News",
+    "url": "https://www.a16z.news/p/introducing-the-a16z-fde-fellowship",
+    "type": "company-blog",
+    "company": "a16z",
+    "lang": "en",
+    "year": 2025,
+    "note": "a16z 推出 FDE Fellowship 的公告，侧证社区热度。",
+    "verified": true
+  },
+  {
+    "title": "WTF is a forward deployed engineer? (and why everyone is hiring them) — PostHog",
+    "url": "https://posthog.com/blog/forward-deployed-engineer",
+    "type": "company-blog",
+    "company": "PostHog",
+    "lang": "en",
+    "year": 2025,
+    "note": "PostHog 工程团队科普 FDE 及自身招聘实践。",
+    "verified": true
+  },
+  {
+    "title": "So You Want to Hire a Forward Deployed Engineer — First Round Review",
+    "url": "https://review.firstround.com/so-you-want-to-hire-a-forward-deployed-engineer/",
+    "type": "company-blog",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "First Round 讲如何招/做 FDE，被社区广泛引用。",
+    "verified": true
+  },
+  {
+    "title": "What are Forward Deployed Engineers, and why are they so in demand? — The Pragmatic Engineer",
+    "url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+    "type": "media",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "Gergely Orosz 深度解析 FDE 需求暴涨，HN 同步热议。",
+    "verified": true
+  },
+  {
+    "title": "The Pulse: Forward deployed engineering heats up again — The Pragmatic Engineer",
+    "url": "https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/",
+    "type": "media",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "Pragmatic Engineer 简报追踪 FDE 再度走热。",
+    "verified": true
+  },
+  {
+    "title": "Forward Deployed Engineers — Silicon Valley Product Group (Marty Cagan)",
+    "url": "https://www.svpg.com/forward-deployed-engineers/",
+    "type": "company-blog",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "SVPG 从产品视角讨论 FDE 模式。",
+    "verified": true
+  },
+  {
+    "title": "Forward Deployed Engineering — Ramp Builders Blog",
+    "url": "https://builders.ramp.com/post/forward-deployed-engineering",
+    "type": "company-blog",
+    "company": "Ramp",
+    "lang": "en",
+    "year": 2025,
+    "note": "Ramp 工程团队分享其 FDE 团队建设经验。",
+    "verified": true
+  },
+  {
+    "title": "Forward deployed engineering on the frontier of AI — Baseten",
+    "url": "https://www.baseten.co/blog/forward-deployed-engineering/",
+    "type": "company-blog",
+    "company": "Baseten",
+    "lang": "en",
+    "year": 2025,
+    "note": "Baseten 谈 AI 前沿的 FDE 实践。",
+    "verified": true
+  },
+  {
+    "title": "A Day in the Life of a Palantir Forward Deployed Software Engineer — Palantir Blog",
+    "url": "https://blog.palantir.com/a-day-in-the-life-of-a-palantir-forward-deployed-software-engineer-45ef2de257b1",
+    "type": "company-blog",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2023,
+    "note": "Palantir 官方博客记录 FDSE Brian 的一天，亲历视角。",
+    "verified": true
+  },
+  {
+    "title": "Dev versus Delta: Demystifying engineering roles at Palantir — Palantir Blog",
+    "url": "https://blog.palantir.com/dev-versus-delta-demystifying-engineering-roles-at-palantir-ad44c2a6e87",
+    "type": "company-blog",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2023,
+    "note": "Palantir 解释 FDE(Delta) 与产品工程(Dev) 之别。",
+    "verified": true
+  },
+  {
+    "title": "Why OpenAI and Anthropic are hiring forward deployed engineer teams — The New Stack",
+    "url": "https://thenewstack.io/forward-deployed-engineers-ai/",
+    "type": "media",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "The New Stack 报道 OpenAI/Anthropic 组建 FDE 团队。",
+    "verified": true
+  },
+  {
+    "title": "Forward deployed engineer is AI's hottest job as OpenAI and Google race to hire — The New Stack",
+    "url": "https://thenewstack.io/forward-deployed-engineer-fde-openai-google/",
+    "type": "media",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "The New Stack：FDE 成 AI 最火岗位及转行指南。",
+    "verified": true
+  },
+  {
+    "title": "Why Forward Deployed Engineers Are the Rage — The Information",
+    "url": "https://www.theinformation.com/articles/forward-deployed-engineers-rage",
+    "type": "media",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "The Information 报道 FDE 热潮（付费墙）。",
+    "verified": true
+  },
+  {
+    "title": "Here's one career emerging from the AI shift: 'forward-deployed engineers' — Computerworld",
+    "url": "https://www.computerworld.com/article/4171867/heres-one-career-emerging-from-the-ai-shift-forward-deployed-engineers.html",
+    "type": "media",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "Computerworld 介绍 FDE 作为 AI 时代新兴职业。",
+    "verified": true
+  },
+  {
+    "title": "Inside the founder factory known as Palantir — Fast Company",
+    "url": "https://www.fastcompany.com/91476499/inside-the-founder-factory-known-as-palantir-americas-most-polarizing-company",
+    "type": "media",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "Fast Company 报道 Palantir FDE 模式如何批量产出创始人。",
+    "verified": true
+  },
+  {
+    "title": "Palantir's Shyam Sankar on why the forward deployed engineer can't be cargo-culted — TBPN Digest",
+    "url": "https://www.tbpndigest.com/story/2025-04-17/palantirs-shyam-sankar-on-enterprise-ai-autonomy-defense-reformation-and-why-the-forward-deployed-engineer-cant-be-cargo-culted",
+    "type": "media",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "TBPN 整理 Shyam Sankar 观点：FDE 无法被简单照搬。",
+    "verified": true
+  },
+  {
+    "title": "Palantir's chief architect Akshay Krishnaswamy on forward-deployed engineering — TBPN Digest",
+    "url": "https://www.tbpndigest.com/story/2025-04-09/palantirs-chief-architect-akshay-krishnaswamy-on-forward-deployed-engineering-and-ai-in-enterprise-workflows",
+    "type": "media",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "TBPN 访谈 Palantir 首席架构师谈 FDE 与企业 AI 工作流。",
+    "verified": true
+  },
+  {
+    "title": "Reflections on Palantir — Nabeel S. Qureshi",
+    "url": "https://nabeelqu.co/reflections-on-palantir",
+    "type": "company-blog",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2024,
+    "note": "前 Palantir FDE 八年亲历长文，社区疯传的经典一手分享。",
+    "verified": true
+  },
+  {
+    "title": "On the Forward Deployed Engineer, Product Led Growth and genuine adoption — Thomas Otter",
+    "url": "https://thomasotter.substack.com/p/on-the-forward-deployed-engineer",
+    "type": "company-blog",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "资深分析师从 PLG 视角审视 FDE 热潮的批判性文章。",
+    "verified": true
+  },
+  {
+    "title": "The Definitive Guide to Forward Deployed Engineering — Next Play (Substack)",
+    "url": "https://nextplayso.substack.com/p/the-definitive-guide-to-forward-deployed",
+    "type": "company-blog",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "Substack FDE 权威指南，论 AI 让部署更难。",
+    "verified": true
+  },
+  {
+    "title": "The rise of AI forward deployed engineers — The AI Frontier (Substack)",
+    "url": "https://frontierai.substack.com/p/the-rise-of-ai-forward-deployed-engineers",
+    "type": "company-blog",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "Substack 文章梳理 AI FDE 兴起。",
+    "verified": true
+  },
+  {
+    "title": "From Forward Deployed Engineers to Forward Deployed Software — Enterprise Context (Substack)",
+    "url": "https://enterprisecontextmanagement.substack.com/p/from-forward-deployed-engineers-to",
+    "type": "company-blog",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "论 FDE 只是 AI 采用曲线阶段性症状的观点文。",
+    "verified": true
+  },
+  {
+    "title": "OpenAI's New Weapon: Forward Deployed Engineers — Angela Stewart (Substack)",
+    "url": "https://angelastewartai.substack.com/p/openais-new-weapon-forward-deployed",
+    "type": "company-blog",
+    "company": "OpenAI",
+    "lang": "en",
+    "year": 2025,
+    "note": "Substack 评 OpenAI 把 FDE 当企业战略武器。",
+    "verified": true
+  },
+  {
+    "title": "The Forward-Deployed Engineer Playbook — Ravi Naarla (Substack)",
+    "url": "https://rnaarla.substack.com/p/the-forward-deployed-engineer-playbook",
+    "type": "company-blog",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "Substack FDE 打法手册。",
+    "verified": true
+  },
+  {
+    "title": "What is a Forward Deployed Engineer, Anyway? — Fourth Age (Substack)",
+    "url": "https://fourthage.substack.com/p/what-is-a-forward-deployed-engineer",
+    "type": "company-blog",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "个人 Substack 解构 FDE 概念。",
+    "verified": true
+  },
+  {
+    "title": "The Hottest Job in Tech Right Now — Andrew Codesmith (Substack)",
+    "url": "https://andrewcodesmith.substack.com/p/the-hottest-job-in-tech-right-now",
+    "type": "company-blog",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "Substack 跟进 a16z 论点，谈 FDE 为何最火。",
+    "verified": true
+  },
+  {
+    "title": "Your Vendor Is Your Competitor — Aspiring for Intelligence (Substack)",
+    "url": "https://aspiringforintelligence.substack.com/p/your-vendor-is-your-competitor",
+    "type": "company-blog",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "从 Palantir FDE 模式切入的产品/竞争分析。",
+    "verified": true
+  },
+  {
+    "title": "Forward-deployed engineers as a model for the humanities — Unregistered World (Substack)",
+    "url": "https://www.unregistered.world/p/palantir-forward-deployed-engineers-humanities",
+    "type": "company-blog",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "把 Palantir FDE 模式类比到人文学科的另类视角文。",
+    "verified": true
+  },
+  {
+    "title": "Understanding Forward Deployed Engineering — Barry's Website",
+    "url": "https://www.barry.ooo/posts/fde-culture",
+    "type": "company-blog",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "前从业者博客解析 FDE 文化与权衡。",
+    "verified": true
+  },
+  {
+    "title": "A Comprehensive Analysis of Palantir's Forward Deployed Engineering Model — Medium",
+    "url": "https://medium.com/activated-thinker/a-comprehensive-analysis-of-palantirs-forward-deployed-engineering-model-4502a036b5e4",
+    "type": "company-blog",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "Medium 长文系统分析 Palantir FDE 模式。",
+    "verified": true
+  },
+  {
+    "title": "The Forward Deployed Engineer Is Reshaping Software Careers — Dev Genius (Medium)",
+    "url": "https://blog.devgenius.io/the-forward-deployed-engineer-is-reshaping-software-careers-c2b0b9fe196b",
+    "type": "company-blog",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "Medium 文谈 FDE 如何重塑软件职业路径。",
+    "verified": true
+  },
+  {
+    "title": "Ep 31: How Palantir Builds New Products — Valley Crossers (Substack)",
+    "url": "https://www.valleycrossers.com/p/ep-31-how-palantir-builds-new-products",
+    "type": "company-blog",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "讲 Palantir 如何借 FDE 现场反馈打造产品。",
+    "verified": true
+  },
+  {
+    "title": "Palantir is the world's most successful forward-deployed engineering company — Computer Speak",
+    "url": "https://www.computerspeak.co/p/palantir-is-the-worlds-must-successful",
+    "type": "company-blog",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "评 Palantir 是最成功的 FDE 公司。",
+    "verified": true
+  },
+  {
+    "title": "Interviewing at Palantir Technologies: FDSE Internship — Meghna Dutta (Medium)",
+    "url": "https://medium.com/@titas180401/interviewing-at-palantir-technologies-fdse-internship-cdd91cfc5169",
+    "type": "company-blog",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2024,
+    "note": "求职者亲述 Palantir FDSE 实习面试经历。",
+    "verified": true
+  }
+]

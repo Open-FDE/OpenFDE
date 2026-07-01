@@ -1,0 +1,31 @@
+# ─────────────────────────────────────────────
+# OpenFDE 内容 / 工具仓库 (Open-FDE/OpenFDE)
+# ─────────────────────────────────────────────
+
+# 私有原始资料 / 第三方版权种子材料 —— 永不公开
+_private/
+
+# 网站代码是独立仓库（Open-FDE/website），不纳入本仓库
+site/
+
+# 系统 / 编辑器垃圾
+.DS_Store
+*.log
+Thumbs.db
+
+# Python（research/ 聚合脚本）
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 依赖 / 构建产物（防呆）
+node_modules/
+dist/
+build/
+
+# 环境变量 / 密钥 —— 绝不提交
+.env
+.env.*
+*.pem
+*.key

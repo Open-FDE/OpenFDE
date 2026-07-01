@@ -1,0 +1,1052 @@
+[
+  {
+    "title": "Job postings for this tech role have grown more than 700% in the last year (Business Insider, syndicated on AOL)",
+    "url": "https://www.aol.com/articles/job-postings-tech-role-grown-185134000.html",
+    "type": "media",
+    "company": "Anthropic, OpenAI, Palantir, Stripe, Google Cloud",
+    "lang": "en",
+    "year": 2026,
+    "note": "Business Insider 原文的 AOL 转载版，给出 FDE 岗位从 643 涨到 5330、同比 729% 的核心数据。",
+    "verified": true
+  },
+  {
+    "title": "Job postings for this tech role have grown more than 700% in the last year (B17 News 转载 BI)",
+    "url": "https://b17news.com/job-postings-for-this-tech-role-have-grown-more-than-700-in-the-last-year/",
+    "type": "media",
+    "company": "Anthropic, OpenAI, Palantir, Stripe",
+    "lang": "en",
+    "year": 2026,
+    "note": "Business Insider 同一篇报道的另一处转载，含 729%、Box CEO Levie 引语。",
+    "verified": false
+  },
+  {
+    "title": "Tech role job postings soar 700% in past year (HyperAI 聚合 BI 数据)",
+    "url": "https://hyper.ai/en/stories/f56252b4276b19817b51e6b4bccd0ea4",
+    "type": "media",
+    "company": "Palantir, OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "聚合站对 Business Insider 700% 增长报道的英文转述。",
+    "verified": false
+  },
+  {
+    "title": "Tech Role Job Postings Surge Over 700% in the Past Year (Intellectia AI)",
+    "url": "https://intellectia.ai/news/stock/job-postings-for-this-tech-role-have-grown-more-than-700-in-the-last-year",
+    "type": "media",
+    "company": "OpenAI, Anthropic, Palantir, Stripe",
+    "lang": "en",
+    "year": 2026,
+    "note": "财经资讯站转载 BI 的 FDE 729% 增长数据。",
+    "verified": false
+  },
+  {
+    "title": "The new hot job in AI: forward-deployed engineers (Financial Times 官方 X)",
+    "url": "https://x.com/FT/status/1984860707221848257",
+    "type": "x-thread",
+    "company": "OpenAI, Anthropic, Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "FT 官方推文推送其 FDE 报道，标志主流财经媒体定调“AI 新热门岗位”。",
+    "verified": true
+  },
+  {
+    "title": "The new hot job in AI: forward-deployed engineers (FT 二级账号 X)",
+    "url": "https://x.com/ft4s/status/1984848812851036443",
+    "type": "x-thread",
+    "company": "OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2025,
+    "note": "FT 推送同篇报道的另一条推文。",
+    "verified": false
+  },
+  {
+    "title": "The new hot job in AI: forward-deployed engineers (FT Threads 帖)",
+    "url": "https://www.threads.com/@financialtimes/post/DQiwA8piKsz/",
+    "type": "x-thread",
+    "company": "OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2025,
+    "note": "FT 官方 Threads 推送 FDE 报道，提到 2025 年涨 800%+。",
+    "verified": false
+  },
+  {
+    "title": "The new hot job in AI: forward-deployed engineers (FT Facebook 帖)",
+    "url": "https://www.facebook.com/financialtimes/posts/the-new-hot-job-in-ai-forward-deployed-engineers/1224900419683333/",
+    "type": "x-thread",
+    "company": "OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2025,
+    "note": "FT 官方 Facebook 推送同篇 FDE 报道。",
+    "verified": false
+  },
+  {
+    "title": "AI startups have a new old secret weapon: forward-deployed engineers (Wall Street Journal)",
+    "url": "https://www.wsj.com/articles/ai-startups-have-a-new-old-secret-weapon-forward-deployed-engineers-d18ee609",
+    "type": "media",
+    "company": "Palantir, OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2025,
+    "note": "WSJ 称 FDE 是 AI 初创“复活的秘密武器”，报道岗位激增与服务化趋势。",
+    "verified": true
+  },
+  {
+    "title": "How a generic-sounding tech job will transform AI (Semafor)",
+    "url": "https://www.semafor.com/article/07/11/2025/how-a-generic-sounding-tech-job-will-transform-ai",
+    "type": "media",
+    "company": "Palantir, OpenAI, Anthropic, H Company",
+    "lang": "en",
+    "year": 2025,
+    "note": "Semafor 科技主编 Reed Albergotti 早期定义 FDE 重要性，已打开核实。",
+    "verified": true
+  },
+  {
+    "title": "Will 2026 be the year of the forward-deployed engineer? (IT Brew)",
+    "url": "https://www.itbrew.com/stories/2025/12/19/will-2026-be-the-year-of-the-forward-deployed-engineer",
+    "type": "media",
+    "company": "Palantir, PwC, Salesforce",
+    "lang": "en",
+    "year": 2025,
+    "note": "IT Brew 引 Lightcast 数据：2025/11 有 922 个岗位、同比 5 倍，已打开核实。",
+    "verified": true
+  },
+  {
+    "title": "Postings for this AI job are up 800% (Fast Company)",
+    "url": "https://www.fastcompany.com/91435680/postings-for-this-ai-job-are-up-800",
+    "type": "media",
+    "company": "OpenAI, Anthropic, Cohere",
+    "lang": "en",
+    "year": 2025,
+    "note": "Fast Company 报道 FDE 岗位 2025 年涨 800%。",
+    "verified": true
+  },
+  {
+    "title": "Google, Box CEOs say this is the 'most in-demand' job in tech (Fast Company)",
+    "url": "https://www.fastcompany.com/91541878/google-box-ceos-say-this-is-the-most-in-demand-job-in-tech",
+    "type": "media",
+    "company": "Google Cloud, Box",
+    "lang": "en",
+    "year": 2026,
+    "note": "Fast Company 引 Kurian、Levie 称 FDE 是最抢手岗位（URL 真实，抓取时 403 付费墙）。",
+    "verified": true
+  },
+  {
+    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services (TechCrunch)",
+    "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "type": "media",
+    "company": "Anthropic, OpenAI, Blackstone, Goldman Sachs",
+    "lang": "en",
+    "year": 2026,
+    "note": "TechCrunch 报道两大 AI 实验室成立企业服务合资公司，落地 FDE 模式。",
+    "verified": true
+  },
+  {
+    "title": "Forward-Deployed Engineers Emerge as One of AI's Fastest-Growing Jobs (PYMNTS)",
+    "url": "https://www.pymnts.com/artificial-intelligence-2/2026/forward-deployed-engineers-emerge-as-one-of-ais-fastest-growing-jobs/",
+    "type": "media",
+    "company": "OpenAI, Anthropic, Cohere",
+    "lang": "en",
+    "year": 2026,
+    "note": "PYMNTS 把 FDE 列为 AI 增长最快岗位之一。",
+    "verified": true
+  },
+  {
+    "title": "Here's one career emerging from the AI shift: 'forward-deployed engineers' (Computerworld)",
+    "url": "https://www.computerworld.com/article/4171867/heres-one-career-emerging-from-the-ai-shift-forward-deployed-engineers.html",
+    "type": "media",
+    "company": "OpenAI, Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Computerworld 把 FDE 作为 AI 转型催生的新职业报道。",
+    "verified": true
+  },
+  {
+    "title": "The forward-deployed engineer: Why talent, not technology, is the true bottleneck for enterprise AI (CIO)",
+    "url": "https://www.cio.com/article/4118737/the-forward-deployed-engineer-why-talent-not-technology-is-the-true-bottleneck-for-enterprise-ai.html",
+    "type": "media",
+    "company": "Palantir, OpenAI",
+    "lang": "en",
+    "year": 2026,
+    "note": "CIO 杂志论证 FDE 是企业 AI 真正瓶颈（人而非技术）。",
+    "verified": true
+  },
+  {
+    "title": "Anthropic's financial agents expose forward-deployed engineers as new AI limiting factor (CIO)",
+    "url": "https://www.cio.com/article/4167981/anthropics-financial-agents-expose-forward-deployed-engineers-as-new-ai-limiting-factor.html",
+    "type": "media",
+    "company": "Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "CIO 从 Anthropic 金融智能体角度看 FDE 成为 AI 落地新限制因素。",
+    "verified": true
+  },
+  {
+    "title": "Google Cloud is hiring an army of AI deployment engineers (CIO Dive)",
+    "url": "https://www.ciodive.com/news/google-cloud-forward-deployed-engineering-jobs/820233/",
+    "type": "media",
+    "company": "Google Cloud",
+    "lang": "en",
+    "year": 2026,
+    "note": "CIO Dive 报道 Google Cloud 大举招 FDE、开 59 个岗位。",
+    "verified": true
+  },
+  {
+    "title": "Google Cloud is hiring an army of AI deployment engineers (Channel Dive)",
+    "url": "https://www.channeldive.com/news/google-cloud-forward-deployed-engineering-jobs/820176/",
+    "type": "media",
+    "company": "Google Cloud",
+    "lang": "en",
+    "year": 2026,
+    "note": "Channel Dive 同题报道 Kurian 招募 FDE 团队。",
+    "verified": false
+  },
+  {
+    "title": "Why OpenAI and Anthropic are hiring forward deployed engineer teams (The New Stack)",
+    "url": "https://thenewstack.io/forward-deployed-engineers-ai/",
+    "type": "media",
+    "company": "OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "The New Stack 分析两大实验室组建 FDE 团队的动因。",
+    "verified": true
+  },
+  {
+    "title": "Forward deployed engineer is AI's hottest job as OpenAI and Google race to hire (The New Stack)",
+    "url": "https://thenewstack.io/forward-deployed-engineer-fde-openai-google/",
+    "type": "media",
+    "company": "OpenAI, Google",
+    "lang": "en",
+    "year": 2026,
+    "note": "The New Stack 称 FDE 是 AI 最热门岗并给出入行指南。",
+    "verified": true
+  },
+  {
+    "title": "What is a Forward Deployed Engineer? The AI Role OpenAI, Anthropic, and Google Are Hiring in 2026 (MarkTechPost)",
+    "url": "https://www.marktechpost.com/2026/05/20/what-is-a-forward-deployed-engineer-the-ai-role-openai-anthropic-and-google-are-hiring-in-2026/",
+    "type": "media",
+    "company": "OpenAI, Anthropic, Google",
+    "lang": "en",
+    "year": 2026,
+    "note": "MarkTechPost 解读 FDE 角色与三巨头招聘热。",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer Is AI's Hottest Job: OpenAI and Google Race to Hire FDEs (Tech Times)",
+    "url": "https://www.techtimes.com/articles/318349/20260613/forward-deployed-engineer-ais-hottest-job-openai-google-race-hire-fdes.htm",
+    "type": "media",
+    "company": "OpenAI, Google",
+    "lang": "en",
+    "year": 2026,
+    "note": "Tech Times 报道 FDE 成 AI 最热门岗位、巨头抢人。",
+    "verified": false
+  },
+  {
+    "title": "Demand for forward deployed engineers surges as companies adopt AI (Business Standard)",
+    "url": "https://www.business-standard.com/amp/technology/tech-news/demand-for-forward-deployed-engineers-surges-as-companies-adopt-ai-126060201183_1.html",
+    "type": "media",
+    "company": "OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "印度主流财经媒体 Business Standard 报道 FDE 需求随 AI 落地激增。",
+    "verified": false
+  },
+  {
+    "title": "MIT report: 95% of generative AI pilots at companies are failing (Fortune)",
+    "url": "https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/",
+    "type": "media",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "Fortune 报道 MIT 95% AI 试点失败，被多篇文章引为 FDE 需求的根因。",
+    "verified": true
+  },
+  {
+    "title": "Demand for this IT position has grown by over 700% in a year (dev.ua)",
+    "url": "https://dev.ua/en/news/popyt-na-tsiu-it-posadu-za-rik-zris-na-ponad-700-1779090289",
+    "type": "media",
+    "company": "OpenAI, Anthropic, Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "乌克兰科技媒体 dev.ua 报道 FDE 一年涨 700%、薪资达 20 万美元。",
+    "verified": false
+  },
+  {
+    "title": "AI Commercialization Fuels 800% Surge in 'Forward-Deployed Engineer' Jobs (BigGo Finance)",
+    "url": "https://finance.biggo.com/news/aGnvNJ4BYH_ypPqOyMpo",
+    "type": "media",
+    "company": "Google, OpenAI",
+    "lang": "en",
+    "year": 2026,
+    "note": "BigGo Finance 报道年薪超 30 万、FDE 岗位激增 800%。",
+    "verified": false
+  },
+  {
+    "title": "Forward deployed engineers, the 'red hot' role shaking up Europe's top AI startups (Sifted)",
+    "url": "https://sifted.eu/articles/forward-deployed-engineers-hype-ai-startups",
+    "type": "media",
+    "company": "Mistral, H Company, 欧洲 AI 初创",
+    "lang": "en",
+    "year": 2025,
+    "note": "FT 旗下 Sifted 报道 FDE 在欧洲顶级 AI 初创中“火爆”。",
+    "verified": true
+  },
+  {
+    "title": "Forward Deployed Engineers Are Proving AI Makes Tech Jobs More Human (Salesforce News)",
+    "url": "https://www.salesforce.com/news/stories/forward-deployed-engineers-making-ai-jobs-more-human/",
+    "type": "company-blog",
+    "company": "Salesforce",
+    "lang": "en",
+    "year": 2026,
+    "note": "Salesforce 新闻室谈 FDE 让 AI 岗位更具人情味。",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer: 5 Skills for This New Role (Salesforce Blog)",
+    "url": "https://www.salesforce.com/blog/forward-deployed-engineer/",
+    "type": "company-blog",
+    "company": "Salesforce",
+    "lang": "en",
+    "year": 2026,
+    "note": "Salesforce 博客拆解 FDE 所需 5 项技能。",
+    "verified": false
+  },
+  {
+    "title": "Trading Margin for Moat: Why the Forward Deployed Engineer Is the Hottest Job in Startups (a16z)",
+    "url": "https://a16z.com/services-led-growth/",
+    "type": "vc-analysis",
+    "company": "Palantir, OpenAI, Ramp",
+    "lang": "en",
+    "year": 2025,
+    "note": "a16z 提出“服务驱动增长”，定调 FDE 是初创最热门岗位（被各媒体引用源头）。",
+    "verified": true
+  },
+  {
+    "title": "The forward deployed engineer is the hottest job in startups (a16z 官方 X)",
+    "url": "https://x.com/a16z/status/1930774473445142934",
+    "type": "x-thread",
+    "company": "Palantir, OpenAI",
+    "lang": "en",
+    "year": 2025,
+    "note": "a16z 官方推文，“最热门岗位”说法的传播起点。",
+    "verified": true
+  },
+  {
+    "title": "Introducing the a16z FDE Fellowship (a16z News)",
+    "url": "https://www.a16z.news/p/introducing-the-a16z-fde-fellowship",
+    "type": "vc-analysis",
+    "company": "a16z",
+    "lang": "en",
+    "year": 2026,
+    "note": "a16z 推出 FDE Fellowship，进一步把该岗位机构化。",
+    "verified": false
+  },
+  {
+    "title": "So You Want to Hire a Forward Deployed Engineer (First Round Review)",
+    "url": "https://review.firstround.com/so-you-want-to-hire-a-forward-deployed-engineer/",
+    "type": "vc-analysis",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "First Round 谈如何招 FDE 及常见误区。",
+    "verified": true
+  },
+  {
+    "title": "Do you really need a forward deployed engineer? (First Round Review)",
+    "url": "https://review.firstround.com/do-you-really-need-a-forward-deployed-engineer/",
+    "type": "vc-analysis",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "First Round 反思何时真正需要 FDE。",
+    "verified": false
+  },
+  {
+    "title": "What are Forward Deployed Engineers, and why are they so in demand? (The Pragmatic Engineer)",
+    "url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+    "type": "media",
+    "company": "Palantir, Google, OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2025,
+    "note": "Gergely Orosz 深度解析 FDE 为何走红，行业权威读物。",
+    "verified": true
+  },
+  {
+    "title": "The Pulse: Forward deployed engineering heats up again (The Pragmatic Engineer)",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering",
+    "type": "media",
+    "company": "OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "Pragmatic Engineer 追踪 FDE 再度升温。",
+    "verified": true
+  },
+  {
+    "title": "The Pulse: Forward deployed engineering heats up again (Pragmatic Engineer 博客版)",
+    "url": "https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/",
+    "type": "media",
+    "company": "OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "同篇内容的博客域名版本。",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineers (Silicon Valley Product Group / Marty Cagan)",
+    "url": "https://www.svpg.com/forward-deployed-engineers/",
+    "type": "vc-analysis",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "SVPG 从产品视角辨析 FDE 与产品工程师的区别。",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineering (Ramp Builders Blog)",
+    "url": "https://builders.ramp.com/post/forward-deployed-engineering",
+    "type": "company-blog",
+    "company": "Ramp",
+    "lang": "en",
+    "year": 2026,
+    "note": "Ramp 工程博客分享自家 FDE 实践。",
+    "verified": false
+  },
+  {
+    "title": "WTF is a forward deployed engineer? (and why everyone is hiring them) (PostHog)",
+    "url": "https://posthog.com/blog/forward-deployed-engineer",
+    "type": "company-blog",
+    "company": "PostHog, Palantir",
+    "lang": "en",
+    "year": 2025,
+    "note": "PostHog 通俗解释 FDE 及为何人人都在招。",
+    "verified": false
+  },
+  {
+    "title": "Understanding the Forward Deployed Engineering (FDE) Model (Future Ventures)",
+    "url": "https://www.futureventures.ca/insights/understanding-the-forward-deployed-engineering-model",
+    "type": "vc-analysis",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "VC 视角解析 FDE 模式与投资意义。",
+    "verified": false
+  },
+  {
+    "title": "Forward-Deployed Engineering (Gennaro Cuofano / Business Engineer)",
+    "url": "https://businessengineer.ai/p/forward-deployed-engineering",
+    "type": "vc-analysis",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "商业模式分析者拆解 FDE 经济学。",
+    "verified": false
+  },
+  {
+    "title": "The rise of AI forward deployed engineers (The AI Frontier substack)",
+    "url": "https://frontierai.substack.com/p/the-rise-of-ai-forward-deployed-engineers",
+    "type": "vc-analysis",
+    "company": "OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "行业 newsletter 论 AI FDE 崛起与服务化营收。",
+    "verified": false
+  },
+  {
+    "title": "On the Forward Deployed Engineer, Product Led Growth and genuine adoption (Thomas Otter)",
+    "url": "https://thomasotter.substack.com/p/on-the-forward-deployed-engineer",
+    "type": "vc-analysis",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "分析师从 PLG 与采纳角度评 FDE。",
+    "verified": false
+  },
+  {
+    "title": "The Hottest Job in Tech Right Now (Andrew Codesmith substack)",
+    "url": "https://andrewcodesmith.substack.com/p/the-hottest-job-in-tech-right-now",
+    "type": "vc-analysis",
+    "company": "Palantir, OpenAI",
+    "lang": "en",
+    "year": 2025,
+    "note": "个人 newsletter 呼应“最热门岗位”叙事。",
+    "verified": false
+  },
+  {
+    "title": "Andrew Ng on the AI Forward Deployed Engineer (X)",
+    "url": "https://x.com/AndrewYNg/status/2061477558693384395",
+    "type": "x-thread",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "吴恩达发推定义并力推 AI FDE 角色，影响力广。",
+    "verified": true
+  },
+  {
+    "title": "Forward Deployed Engineer (FDE) - SF (OpenAI 官方招聘)",
+    "url": "https://openai.com/careers/forward-deployed-engineer-(fde)-sf-san-francisco/",
+    "type": "official-jd",
+    "company": "OpenAI",
+    "lang": "en",
+    "year": 2026,
+    "note": "OpenAI 官方 FDE 岗位 JD，媒体报道的一手出处。",
+    "verified": true
+  },
+  {
+    "title": "Forward Deployed Engineer, Applied AI (Anthropic 官方招聘)",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008",
+    "type": "official-jd",
+    "company": "Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "Anthropic 官方 Applied AI / FDE 招聘页。",
+    "verified": true
+  },
+  {
+    "title": "Forward Deployed AI Engineer (Palantir Lever 招聘)",
+    "url": "https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488",
+    "type": "official-jd",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE 模式发明者 Palantir 的官方 AI FDE 岗位。",
+    "verified": true
+  },
+  {
+    "title": "AI FDE Overview (Palantir 官方文档)",
+    "url": "https://www.palantir.com/docs/foundry/ai-fde/overview",
+    "type": "official-jd",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "Palantir Foundry 的 AI FDE 官方说明文档。",
+    "verified": true
+  },
+  {
+    "title": "Forward Deployed Engineer, GenAI (Scale AI 官方招聘)",
+    "url": "https://scale.com/careers/4593571005",
+    "type": "official-jd",
+    "company": "Scale AI",
+    "lang": "en",
+    "year": 2026,
+    "note": "Scale AI 官方 GenAI FDE 招聘。",
+    "verified": false
+  },
+  {
+    "title": "AI Forward Deployed Engineer (Senior/Lead/Principal) (Salesforce 官方招聘)",
+    "url": "https://careers.salesforce.com/en/jobs/jr305198/ai-forward-deployed-engineer-seniorleadprincipal/",
+    "type": "official-jd",
+    "company": "Salesforce",
+    "lang": "en",
+    "year": 2026,
+    "note": "Salesforce 官方多级 AI FDE 招聘页。",
+    "verified": false
+  },
+  {
+    "title": "Rise of the Forward Deployed Engineer (Hacker News 讨论)",
+    "url": "https://news.ycombinator.com/item?id=47951082",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "HN 围绕 FDE 崛起的从业者讨论。",
+    "verified": true
+  },
+  {
+    "title": "Ask HN: What's the Deal with Forward Deployed Engineers? (Hacker News)",
+    "url": "https://news.ycombinator.com/item?id=47542553",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "HN 提问帖，工程师讨论 FDE 真实工作。",
+    "verified": false
+  },
+  {
+    "title": "I analyzed 1000 forward deployed engineering jobs (Hacker News)",
+    "url": "https://news.ycombinator.com/item?id=45970395",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "HN 分享 1000 个 FDE 岗位分析的讨论。",
+    "verified": false
+  },
+  {
+    "title": "The new hot job in AI: forward-deployed engineers (Hacker News 讨论 FT 文)",
+    "url": "https://news.ycombinator.com/item?id=45788526",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "HN 讨论 FT 那篇 FDE 报道。",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineering 101 (Hacker News)",
+    "url": "https://news.ycombinator.com/item?id=48218162",
+    "type": "forum",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "HN FDE 入门讨论帖。",
+    "verified": false
+  },
+  {
+    "title": "What the hell is a 'forward deployed engineer'? (Hacker News, 2016)",
+    "url": "https://news.ycombinator.com/item?id=11647671",
+    "type": "forum",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2016,
+    "note": "早期 HN 讨论，显示 FDE 概念多年前就存在于 Palantir。",
+    "verified": false
+  },
+  {
+    "title": "I analyzed 1000 forward deployed engineer jobs — what I learned (bloomberry)",
+    "url": "https://bloomberry.com/blog/i-analyzed-1000-forward-deployed-engineer-jobs-what-i-learned/",
+    "type": "vc-analysis",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "对 1000 份 FDE 岗位的数据分析，含薪资中位数。",
+    "verified": false
+  },
+  {
+    "title": "OpenAI Software Engineer Salary $254K-$1.23M+ (Levels.fyi)",
+    "url": "https://www.levels.fyi/companies/openai/salaries/software-engineer",
+    "type": "levels",
+    "company": "OpenAI",
+    "lang": "en",
+    "year": 2026,
+    "note": "Levels.fyi OpenAI 薪资，媒体引用 FDE 高薪的来源。",
+    "verified": true
+  },
+  {
+    "title": "Forward Deployed Engineer Salaries 2026 $198k-$631k (6figr)",
+    "url": "https://6figr.com/us/salary/forward-deployed-engineer--t",
+    "type": "levels",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "薪资聚合站给出 FDE 198k-631k 区间。",
+    "verified": false
+  },
+  {
+    "title": "A Day as Forward Deployed Engineer (Northslope, YouTube)",
+    "url": "https://www.youtube.com/watch?v=NFTyOmzZpHg",
+    "type": "youtube",
+    "company": null,
+    "lang": "en",
+    "year": 2025,
+    "note": "FDE 一日工作视频，直观呈现岗位日常。",
+    "verified": false
+  },
+  {
+    "title": "How to Become a Forward Deployed Engineer (2026) Complete Roadmap (YouTube)",
+    "url": "https://www.youtube.com/watch?v=_oUd8ebf1w8",
+    "type": "youtube",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "FDE 入行路线图视频。",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer Interviews (with AWS FDE Leader) (YouTube)",
+    "url": "https://www.youtube.com/watch?v=qZgErBZk0GY",
+    "type": "youtube",
+    "company": "AWS",
+    "lang": "en",
+    "year": 2026,
+    "note": "与 AWS FDE 负责人谈面试的访谈视频。",
+    "verified": false
+  },
+  {
+    "title": "The FDE Playbook for AI Startups — Bob McGrew (Y Combinator, via Class Central)",
+    "url": "https://www.classcentral.com/course/youtube-the-fde-playbook-for-ai-startups-with-bob-mcgrew-489304",
+    "type": "youtube",
+    "company": "Y Combinator, OpenAI",
+    "lang": "en",
+    "year": 2026,
+    "note": "YC 邀前 OpenAI 研究负责人 Bob McGrew 讲 FDE 打法。",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Forward_Deployed_Engineer",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "维基百科 FDE 词条，定义与历史背景。",
+    "verified": true
+  },
+  {
+    "title": "Why Forward Deployed Engineers Are the Hottest Job in 2026 (Christian & Timbers)",
+    "url": "https://www.christianandtimbers.com/insights/why-forward-deployed-engineers-are-the-hottest-job-in-2026",
+    "type": "other",
+    "company": "OpenAI, Anthropic, Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "高管猎头公司总结 FDE 为 2026 最热门岗位并引 WSJ。",
+    "verified": false
+  },
+  {
+    "title": "Forward-Deployed Engineers Are AI's Hottest Hire (GoElite)",
+    "url": "https://goelite.com/blogs/forward-deployed-engineers-are-ais-hottest-hire",
+    "type": "other",
+    "company": "OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "汇总 FT/WSJ 等媒体对 FDE 的定调。",
+    "verified": false
+  },
+  {
+    "title": "The Forward Deployed Engineer: 2026's Hottest Job Title (Gigged.AI)",
+    "url": "https://gigged.ai/the-forward-deployed-engineer-2026s-hottest-job-title/",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "招聘平台称 FDE 为 2026 最热岗位头衔。",
+    "verified": false
+  },
+  {
+    "title": "What Is a Forward Deployed Engineer? Complete 2026 Guide (Exponent)",
+    "url": "https://www.tryexponent.com/blog/what-is-a-forward-deployed-engineer",
+    "type": "other",
+    "company": "Palantir, OpenAI",
+    "lang": "en",
+    "year": 2026,
+    "note": "面试备考平台 Exponent 的 FDE 指南，引 BI 数据。",
+    "verified": false
+  },
+  {
+    "title": "What Is a Forward Deployed Engineer — and Why This Role Is Reshaping How AI Gets Done (Insight Global)",
+    "url": "https://insightglobal.com/blog/what-is-a-forward-deployed-engineer/",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "人力资源公司 Insight Global 解读 FDE。",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer (FDE): The Essential 2026 Guide (Rocketlane)",
+    "url": "https://www.rocketlane.com/blogs/forward-deployed-engineer",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "客户实施 SaaS Rocketlane 的 FDE 指南。",
+    "verified": false
+  },
+  {
+    "title": "What a Forward-Deployed Engineer Actually Does at Palantir, Runway, and Greptile (Paraform)",
+    "url": "https://www.paraform.com/blog/forward-deployed-engineer-palantir-runway-greptile",
+    "type": "other",
+    "company": "Palantir, Runway, Greptile",
+    "lang": "en",
+    "year": 2026,
+    "note": "对比三家公司 FDE 实际工作差异。",
+    "verified": false
+  },
+  {
+    "title": "Forward-Deployed Engineers: How Demand Grew 10x in 18 Months (Paraform)",
+    "url": "https://www.paraform.com/blog/forward-deployed-engineer-demand-quadrupled",
+    "type": "other",
+    "company": "OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "招聘平台分析 18 个月需求增长 10 倍。",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer: What It Takes to Make AI Work in B2B (SaaStr)",
+    "url": "https://www.saastr.com/forward-deployed-engineer-what-it-takes-to-make-ai-work-in-b2b-but-do-they-work-for-smbs/",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "SaaStr 讨论 FDE 在 B2B/SMB 的适配性。",
+    "verified": false
+  },
+  {
+    "title": "Why Anthropic and OpenAI Are Copying Palantir's Forward-Deployed Engineer Playbook (MindStudio)",
+    "url": "https://www.mindstudio.ai/blog/anthropic-openai-copying-palantir-forward-deployed-engineer-model",
+    "type": "other",
+    "company": "Anthropic, OpenAI, Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "分析两大实验室复制 Palantir FDE 打法。",
+    "verified": false
+  },
+  {
+    "title": "The Tech Job Pichai and Levie Both Want (Metaintro)",
+    "url": "https://www.metaintro.com/blog/forward-deployed-engineer-most-in-demand-tech-job-2026",
+    "type": "other",
+    "company": "Google, Box",
+    "lang": "en",
+    "year": 2026,
+    "note": "引 Pichai、Levie 称 FDE 为最抢手岗位。",
+    "verified": false
+  },
+  {
+    "title": "Palantir is the world's most successful forward-deployed engineering company (Computer Speak)",
+    "url": "https://www.computerspeak.co/p/palantir-is-the-worlds-must-successful",
+    "type": "vc-analysis",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "论 Palantir 是最成功的 FDE 公司。",
+    "verified": false
+  },
+  {
+    "title": "How Palantir Invented the Forward Deployed Engineer Model (FDE Academy)",
+    "url": "https://fde.academy/blog/how-palantir-invented-the-forward-deployed-engineer-model",
+    "type": "other",
+    "company": "Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "梳理 Palantir 如何发明 FDE 模式与 Delta 称谓。",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer: The Role Reshaping Enterprise AI (The Tool Nerd)",
+    "url": "https://www.thetoolnerd.com/p/forward-deployed-engineer-the-role-enterprise-ai",
+    "type": "other",
+    "company": "OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "newsletter 论 FDE 重塑企业 AI，引 Semafor 等。",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer: Turning AI Promise into Progress? (SSON Network)",
+    "url": "https://www.ssonetwork.com/intelligent-automation/columns/forward-deployed-engineers-guide",
+    "type": "other",
+    "company": null,
+    "lang": "en",
+    "year": 2026,
+    "note": "共享服务/自动化行业媒体的 FDE 专栏。",
+    "verified": false
+  },
+  {
+    "title": "State of Forward Deployed Engineering 2026: Survey of 1,500 FDEs (Perspective AI)",
+    "url": "https://getperspective.ai/blog/state-of-forward-deployed-engineering-2026-survey-report-1500-fdes",
+    "type": "other",
+    "company": "OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "1500 名 FDE 调查，媒体引用的薪资/现状数据源。",
+    "verified": false
+  },
+  {
+    "title": "The 2026 Forward Deployed Engineering Compensation Report: What 1,200 FDEs Earn (Perspective AI)",
+    "url": "https://getperspective.ai/blog/2026-forward-deployed-engineering-compensation-report-1200-fdes",
+    "type": "other",
+    "company": "OpenAI, Anthropic, Palantir",
+    "lang": "en",
+    "year": 2026,
+    "note": "1200 名 FDE 薪酬报告，频繁被引。",
+    "verified": false
+  },
+  {
+    "title": "Forward Deployed Engineer Boom: 224 Open Roles Across 39 AI Companies (Jobs by Culture)",
+    "url": "https://jobsbyculture.com/blog/forward-deployed-engineer-boom-2026",
+    "type": "other",
+    "company": "Palantir, Databricks, Cohere, Ramp, Rippling",
+    "lang": "en",
+    "year": 2026,
+    "note": "统计 39 家 AI 公司 224 个在招 FDE 岗位。",
+    "verified": false
+  },
+  {
+    "title": "Forward-Deployed Engineers: The 800% Growth Role Redefining AI Hiring (Fonzi AI / Medium)",
+    "url": "https://medium.com/fonzi-ai/forward-deployed-engineers-the-800-growth-role-redefining-ai-hiring-69e19d800047",
+    "type": "other",
+    "company": "OpenAI, Anthropic",
+    "lang": "en",
+    "year": 2026,
+    "note": "Medium 长文论 800% 增长重塑 AI 招聘。",
+    "verified": false
+  },
+  {
+    "title": "OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE (36氪)",
+    "url": "https://www.36kr.com/p/3865396382258441",
+    "type": "cn-article",
+    "company": "OpenAI",
+    "lang": "zh",
+    "year": 2026,
+    "note": "36 氪报道 OpenAI 砸 40 亿做部署公司、聊硅谷最火 FDE。",
+    "verified": true
+  },
+  {
+    "title": "年薪百万，招聘需求涨42倍，“AI圈最火岗位”到底是干嘛的？ (36氪)",
+    "url": "https://36kr.com/p/3839857956817414",
+    "type": "cn-article",
+    "company": "OpenAI, Anthropic",
+    "lang": "zh",
+    "year": 2026,
+    "note": "36 氪解读 FDE：年薪百万、需求暴涨。",
+    "verified": false
+  },
+  {
+    "title": "OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE (钛媒体)",
+    "url": "https://www.tmtpost.com/8037825.html",
+    "type": "cn-article",
+    "company": "OpenAI",
+    "lang": "zh",
+    "year": 2026,
+    "note": "钛媒体同题深度，分析模型公司服务化转向。",
+    "verified": true
+  },
+  {
+    "title": "AI部署浪潮下FDE角色崛起：模型公司、私募与咨询行业迎来变革 (虎嗅)",
+    "url": "https://www.huxiu.com/article/4869531.html",
+    "type": "cn-article",
+    "company": "OpenAI, Anthropic",
+    "lang": "zh",
+    "year": 2026,
+    "note": "虎嗅论 FDE 崛起对模型公司/PE/咨询业的冲击。",
+    "verified": true
+  },
+  {
+    "title": "年薪百万！AI落地工程师爆火！暴增729% (新浪财经)",
+    "url": "https://finance.sina.com.cn/wm/2026-05-18/doc-inhyimem8115024.shtml",
+    "type": "cn-article",
+    "company": "OpenAI, Anthropic",
+    "lang": "zh",
+    "year": 2026,
+    "note": "新浪财经引 BI 的 729% 数据报道 FDE 爆火。",
+    "verified": true
+  },
+  {
+    "title": "这个岗位被AI带火！数量一年暴涨7倍，年薪破百万 (新浪财经)",
+    "url": "https://finance.sina.com.cn/wm/2026-05-18/doc-inhyirna3790614.shtml",
+    "type": "cn-article",
+    "company": "OpenAI, Anthropic",
+    "lang": "zh",
+    "year": 2026,
+    "note": "新浪财经报道 FDE 一年涨 7 倍、年薪破百万。",
+    "verified": false
+  },
+  {
+    "title": "这个岗位被AI带火！数量一年暴涨7倍，年薪破百万 (澎湃新闻)",
+    "url": "https://m.thepaper.cn/newsDetail_forward_33195935",
+    "type": "cn-article",
+    "company": "OpenAI, Anthropic",
+    "lang": "zh",
+    "year": 2026,
+    "note": "澎湃新闻同题报道 FDE 暴涨与高薪。",
+    "verified": true
+  },
+  {
+    "title": "OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE (搜狐)",
+    "url": "https://m.sohu.com/a/1040472079_116132",
+    "type": "cn-article",
+    "company": "OpenAI",
+    "lang": "zh",
+    "year": 2026,
+    "note": "搜狐转载硅谷最火职位 FDE 报道。",
+    "verified": false
+  },
+  {
+    "title": "硅谷今年最火的岗位 FDE，我们闷头干了三年 (53AI)",
+    "url": "https://www.53ai.com/news/Palantir/2026061023150.html",
+    "type": "cn-article",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "从业者视角的中文 FDE 长文，含一手经验。",
+    "verified": false
+  },
+  {
+    "title": "一文带你看懂，火爆硅谷的FDE岗位是个啥！ (知乎)",
+    "url": "https://zhuanlan.zhihu.com/p/2049257483059910488",
+    "type": "cn-article",
+    "company": "OpenAI, Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "知乎专栏科普 FDE 岗位。",
+    "verified": false
+  },
+  {
+    "title": "AI时代最抢手的工程师岗位 FDE (乔木博客)",
+    "url": "https://blog.qiaomu.ai/2026-06-02-v1l362",
+    "type": "cn-article",
+    "company": "OpenAI, Anthropic",
+    "lang": "zh",
+    "year": 2026,
+    "note": "中文博客详解 FDE 工作内容与薪资。",
+    "verified": false
+  },
+  {
+    "title": "裁员潮里逆涨7倍！FDE到底是个啥，让OpenAI抢着挖 (掘金)",
+    "url": "https://juejin.cn/post/7644117280317718571",
+    "type": "cn-article",
+    "company": "OpenAI",
+    "lang": "zh",
+    "year": 2026,
+    "note": "掘金技术社区长文，逆势增长与高薪难招。",
+    "verified": false
+  },
+  {
+    "title": "FDE 是谁：AI 落地的最后一公里，由人来扛 (80aj)",
+    "url": "https://www.80aj.com/2026/05/23/fde-forward-deployed-engineer/",
+    "type": "cn-article",
+    "company": "Palantir, OpenAI",
+    "lang": "zh",
+    "year": 2026,
+    "note": "中文文章论 FDE 解决 AI 落地“最后一公里”。",
+    "verified": false
+  },
+  {
+    "title": "FDE 是什么？为什么软件业界需要 FDE？ (ExplainThis)",
+    "url": "https://www.explainthis.io/zh-hans/ai/what-is-fde",
+    "type": "cn-article",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "繁体科普站的 FDE 概念解析（简体页）。",
+    "verified": false
+  },
+  {
+    "title": "前沿部署工程师(FDE) (百度百科)",
+    "url": "https://baike.baidu.com/item/%E5%89%8D%E6%B2%BF%E9%83%A8%E7%BD%B2%E5%B7%A5%E7%A8%8B%E5%B8%88(FDE)/67210101",
+    "type": "cn-article",
+    "company": "Palantir",
+    "lang": "zh",
+    "year": 2026,
+    "note": "百度百科 FDE 词条，中文定义参考。",
+    "verified": false
+  },
+  {
+    "title": "OpenAI联手PE砸下$40亿 聊聊硅谷最火新职位FDE (文学城)",
+    "url": "https://www.wenxuecity.com/news/2026/06/23/126687799.html",
+    "type": "cn-article",
+    "company": "OpenAI",
+    "lang": "zh",
+    "year": 2026,
+    "note": "文学城转载硅谷最火职位 FDE 报道。",
+    "verified": false
+  },
+  {
+    "title": "天价薪酬、需求激增：FDE的春天真的来了吗 (新浪财经)",
+    "url": "https://finance.sina.cn/stock/jdts/2026-05-29/detail-inhzqccn7983814.d.html",
+    "type": "cn-article",
+    "company": "OpenAI, Anthropic",
+    "lang": "zh",
+    "year": 2026,
+    "note": "新浪财经质疑式报道 FDE 高薪与需求是否可持续。",
+    "verified": false
+  },
+  {
+    "title": "深度解析 FDE：AI 落地时代最炙手可热的新职业 (无矩AI)",
+    "url": "https://iaipie.com/%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90-fde%EF%BC%9Aai-%E8%90%BD%E5%9C%B0%E6%97%B6%E4%BB%A3%E6%9C%80%E7%82%99%E6%89%8B%E5%8F%AF%E7%83%AD%E7%9A%84%E6%96%B0%E8%81%8C%E4%B8%9A/",
+    "type": "cn-article",
+    "company": "OpenAI, Anthropic",
+    "lang": "zh",
+    "year": 2026,
+    "note": "中文深度解析 FDE 新职业。",
+    "verified": false
+  }
+]
