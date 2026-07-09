@@ -1,0 +1,8 @@
+{"type": "message", "actor": "lead:4821", "content": "We're evaluating QA tooling for our quality team — about 40 people. We need something rolled out within 6 weeks for an audit."}
+{"type": "tool_call", "actor": "expert:chen", "content": "crm.get_lead lead:4821"}
+{"type": "tool_result", "actor": "mockcrm", "content": "company=Acme Manufacturing; total_employees=600; industry=manufacturing; budget=unknown"}
+{"type": "message", "actor": "expert:chen", "content": "Hmm, 40-person QA team but 600 total — this is a department pilot, not company-wide. Let me think about whether to route this to SMB self-serve or Enterprise."}
+{"type": "message", "actor": "expert:chen", "content": "The hard 6-week deadline is the real signal — that's a compelling event. And the reply was fast and specific."}
+{"type": "decision", "actor": "expert:chen", "content": "Qualify as an Enterprise land-and-expand opportunity and push for a 30-minute scoping call this week, overriding the seat-count auto-routing."}
+{"type": "message", "actor": "expert:chen", "content": "Normally a 40-seat pilot auto-routes to SMB self-serve. I'm overriding that: compelling event plus a 600-person parent means real expansion. Ignore the auto-routing."}
+{"type": "edit", "actor": "expert:chen", "content": "stage -> 'Enterprise - Discovery'"}

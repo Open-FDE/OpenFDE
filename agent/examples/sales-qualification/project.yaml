@@ -1,0 +1,11 @@
+project: acme-sales
+domain: sales.qualification
+expert: expert:chen
+goal: Qualify inbound leads correctly, so land-and-expand deals are not lost to auto-routing.
+kpi: qualified_to_closed_rate
+connectors:
+  - name: mockcrm
+    kind: http
+    operations:
+      - crm.get_lead          # read
+      - crm.update_stage      # write — requires approval (external-facing change)
