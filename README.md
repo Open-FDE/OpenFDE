@@ -4,64 +4,56 @@
 
 # OpenFDE
 
-**在客户现场筑巢，把前沿模型变成生产系统。**
+**Nest on the customer's site, and turn frontier models into production systems.**
 
-面向**前线部署工程师（Forward Deployed Engineer, FDE）**的开源知识库与工具 · EST. 2026
+Open knowledge base & Agent for **Forward Deployed Engineers (FDE)** · EST. 2026
 
-[![Website](https://img.shields.io/badge/网站-open--fde.com-0a0a0a)](https://open-fde.com)
-[![Docs License](https://img.shields.io/badge/文档-CC%20BY--SA%204.0-blue)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Code License](https://img.shields.io/badge/代码-MIT-green)](./LICENSE)
+[![Website](https://img.shields.io/badge/website-open--fde.com-0a0a0a)](https://open-fde.com)
+[![Docs License](https://img.shields.io/badge/docs-CC%20BY--SA%204.0-blue)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Code License](https://img.shields.io/badge/code-MIT-green)](./LICENSE)
 
 [🌐 open-fde.com](https://open-fde.com)
+
+**English** · [简体中文](./README.zh-CN.md)
 
 </div>
 
 ---
 
-## 这是什么
+## What this is
 
-**FDE 是 AI 时代企业落地的关键岗位**——前沿模型每月都在变强，但企业把它接进核心流程的速度远远跟不上，补这道鸿沟的人就是 FDE。可这个岗位的一手资料散落在岗位页、博客、播客与推文里，缺一份系统、中立、可溯源的中文资料。
+**FDE is the pivotal role for landing AI inside the enterprise.** Frontier models get stronger every month, but the speed at which companies wire them into core workflows lags far behind — and the people closing that gap are FDEs. Yet the first-hand material on the role is scattered across job pages, blogs, podcasts, and tweets; there is no systematic, neutral, source-traceable body of knowledge.
 
-**OpenFDE 想补上这块**：把散落的一手信号检索、去重、结构化，沉淀成可复用的中文知识；并进一步开源 FDE 全流程所需的 **AI-native 工具**——因为 AI 时代的 FDE，必须是 AI Native 的团队/组织。
+**OpenFDE aims to fix that:** we retrieve, de-duplicate, and structure the scattered first-hand signals into reusable knowledge, and we go further by open-sourcing the **AI-native tools** an FDE needs across the full lifecycle — because in the AI era, an FDE has to be an AI-native team/organization.
 
-雨燕（swift）是我们的标记：一生几乎都在飞，却在客户现场"筑巢"，把系统真正落地、长期驻留，并不断带回一线的信号。
+The swift is our mark: it spends almost its whole life in flight, yet it "nests" on the customer's site — landing systems for real, staying long-term, and continually bringing signals back from the front line.
 
-## 内容
+## Contents
 
 | | |
 |---|---|
-| 📖 **FDE 手册** | 从"什么是 FDE"到岗位价值、组织与商业模式、技术栈、面试准备的章节化手册 |
-| 🧭 **能力模型 · 岗位地图 · 转型路线** | 3C 能力框架、各岗位（咨询/工程/销售/售前/PM/CSM/产品经理）转 FDE 的具体路线 |
-| 🗺️ **FDE 所需工具地图** | 以"AI-native FDE 团队 = 小人类核心 + agent 舰队"为视角，覆盖市场→签约→设计→开发→上线→运维全生命周期，含产品化底座、模型舰队与 AI 硬件选型 |
-| 📚 **参考资料库** | 一手资料按可信度分层：**1,550 检索 → 1,251 去重 → 663 核实**（"核实"= 真实打开过或权威规范链接，绝不为凑数编造） |
-| 🧱 **开源 FDE 工具**（建设中） | 把地图里 ⭐ 必备的 agent 工具 fork / 改造成 FDE 专用 |
-| 🤖 **OpenFDE Agent · FDE Loop** | 面向企业现场的原位 FDE 层：`OBSERVE → ELICIT → INDUCE → ACT → EVOLVE` + DEPLOY/ATTRIBUTION 两个面。以 **Judgment Unit** 为核心原语，开源协议、留空护城河。见 [`agent/`](./agent) |
+| 📖 **The FDE Handbook** | A chaptered handbook from "what is an FDE" to role value, org & business models, tech stack, and interview prep |
+| 🧭 **Competency Model · Role Map · Transition Paths** | The 3C competency framework, plus concrete paths into FDE from consulting / engineering / sales / pre-sales / PM / CSM / product roles |
+| 🗺️ **The FDE Tooling Map** | Framed as "AI-native FDE team = small human core + fleet of agents," covering the full lifecycle market → contract → design → build → launch → operate, including the productization base, the model fleet, and AI hardware selection |
+| 📚 **Reference Library** | First-hand material tiered by credibility: **1,550 retrieved → 1,251 de-duplicated → 663 verified** ("verified" = actually opened, or an authoritative spec link; never fabricated to pad the count) |
+| 🧱 **Open-source FDE tools** (in progress) | Fork / adapt the ⭐ must-have agent tools from the map into FDE-specific ones |
+| 🤖 **OpenFDE Agent · FDE Loop** | An in-situ FDE layer for the enterprise site: `OBSERVE → ELICIT → INDUCE → ACT → EVOLVE` + the DEPLOY / ATTRIBUTION planes. Built around the **Judgment Unit** as its core primitive; open protocol, moat left blank. See [`agent/`](./agent) |
 
-> 完整内容见 **[open-fde.com](https://open-fde.com)**。
+> Full content at **[open-fde.com](https://open-fde.com)**.
 
-## 为什么是 AI 时代
+## Why the AI era
 
-Palantir 的护城河不是单点工具，而是底层那个产品化平台——它把 50%+ 的投入压在打造自有产品上，让每一次现场交付都沉淀成可复用的产品，而不是一次性项目。OpenFDE 主张：**AI 时代的 FDE 团队也必须如此**——用最好的 agentic 工具和模型放大产能，把现场需求反哺自家产品，靠产品复利而非堆人活下来。
+Palantir's moat isn't a single tool — it's the productization platform underneath, which sinks 50%+ of its investment into building its own product so every on-site delivery compounds into reusable product rather than a one-off project. OpenFDE argues that **an FDE team in the AI era must do the same**: use the best agentic tools and models to amplify output, feed on-site needs back into your own product, and survive on product compounding rather than throwing bodies at the problem.
 
-## 参与贡献
+## Contributing
 
-无论你是 FDE、想转 FDE，还是在组建 FDE 团队——都欢迎参与：补充一手资料、修订手册、贡献工具或纠错。开 Issue 或 PR 即可。
+Whether you're an FDE, want to become one, or are building an FDE team — you're welcome to take part: add first-hand material, revise the handbook, contribute tools, or fix errors. Just open an Issue or PR.
 
-## 关于独立性
+## On independence
 
-OpenFDE 与 OpenAI、Palantir、Anthropic、Google、字节跳动等公司**无隶属或背书关系**；相关商标归各自所有者。
+OpenFDE has **no affiliation with or endorsement from** OpenAI, Palantir, Anthropic, Google, ByteDance, or others; trademarks belong to their respective owners.
 
-## 协议
+## License
 
-- **文档内容**：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)（署名 + 相同方式共享）
-- **站点与工具代码**：[MIT](./LICENSE)
-
----
-
-## English
-
-**OpenFDE** — open knowledge & tooling for **Forward Deployed Engineers (FDE)**, the role bridging frontier models and real enterprise production.
-
-We curate the scattered first-hand material on FDE into a structured, source-traceable Chinese knowledge base, and open-source the **AI-native tools** an FDE team needs across the full delivery lifecycle. The thesis: in the AI era, an FDE team is a **small human core orchestrating a fleet of agents**, and—like Palantir—turns every deployment into reusable product.
-
-🌐 **[open-fde.com](https://open-fde.com)** · Docs: CC BY-SA 4.0 · Code: MIT · Not affiliated with OpenAI / Palantir / Anthropic / Google / ByteDance.
+- **Documentation content**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (attribution + share-alike)
+- **Site & tooling code**: [MIT](./LICENSE)
