@@ -1,6 +1,6 @@
-"""OpenFDE — the Apprentice Loop.
+"""OpenFDE — the FDE Loop.
 
-An in-situ apprenticeship layer that sits *above* agent runtimes: it observes an
+An in-situ FDE layer that sits *above* agent runtimes: it observes an
 expert's real work, elicits the tacit *why* behind their judgments, induces
 those into reusable **Judgment Units**, acts on them with graduated autonomy,
 and evolves on real business outcomes.

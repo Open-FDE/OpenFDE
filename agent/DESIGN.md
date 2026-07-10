@@ -112,7 +112,7 @@ The open-source ecosystem already covers connectivity (MCP, Composio, Temporal),
 execution (LangGraph, CrewAI, ADK, Agents SDK, Pydantic AI), and optimization
 (GEPA, DSPy). Rebuilding any of them is wasted motion.
 
-**Implication.** OpenFDE is an **apprenticeship layer above** these runtimes. It
+**Implication.** OpenFDE is an **FDE layer above** these runtimes. It
 orchestrates them through thin, verified adapters and contributes the one layer
 nobody has standardized: observe → elicit → induce → act → evolve, with the
 Judgment Unit at the center.

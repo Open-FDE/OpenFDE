@@ -1,6 +1,6 @@
 """ATTRIBUTION plane schema — connecting judgments to real business results.
 
-The ATTRIBUTION plane is what turns a copilot into an apprentice that gets
+The ATTRIBUTION plane is what turns a copilot into an FDE that gets
 better at the *business*, not just at looking helpful. It links every expert
 judgment, agent action and Judgment Unit to real outcomes — a deal closing,
 a customer churning, an NPS moving — and becomes the reward signal EVOLVE

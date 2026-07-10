@@ -41,14 +41,14 @@ opposite. As the cognitive-science line goes: **experts know more than they can
 tell.** A copilot that records *what* an expert did but not *why* can't transfer
 the judgment.
 
-## The reframing: enterprises don't need a copilot, they need an apprentice
+## The reframing: enterprises don't need a copilot, they need an FDE
 
-How does a good apprentice actually learn? They sit next to the expert on real
+How does a good FDE actually ramp up on-site? They embed next to the expert on real
 work; they ask *why* at the moments that matter ("what did you notice, what were
 you going for, when would you not do this?"); they distill it; they act with
 supervision first and earn autonomy; and they're judged on real results.
 
-OpenFDE turns that into a protocol — the **Apprentice Loop**:
+OpenFDE turns that into a protocol — the **FDE Loop**:
 
 ```
    DEPLOY plane  (in-situ: connectors · auth · audit)

@@ -1,7 +1,7 @@
 """Optional LLM client for ELICIT and INDUCE.
 
 Design choice, stated plainly because it is a real question for enterprise
-deployments: **the Apprentice Loop does not require an LLM to run.** OBSERVE,
+deployments: **the FDE Loop does not require an LLM to run.** OBSERVE,
 the baseline elicitation interview, deterministic induction, ACT compilation
 and heuristic attribution all work offline. An LLM, when configured, *raises
 the ceiling* of ELICIT (better probe wording) and INDUCE (better structuring

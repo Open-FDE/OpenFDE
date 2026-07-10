@@ -1,4 +1,4 @@
-"""The Apprentice Loop — OBSERVE → ELICIT → INDUCE → ACT → EVOLVE.
+"""The FDE Loop — OBSERVE → ELICIT → INDUCE → ACT → EVOLVE.
 
 This module orchestrates the five steps over the two planes (DEPLOY provides
 connectors; ATTRIBUTION provides the outcome ledger). Each step is independently
@@ -59,7 +59,7 @@ def run_loop(
     ledger_path: Optional[str] = None,
     llm: Optional[LLMClient] = None,
 ) -> LoopResult:
-    """Run one full pass of the Apprentice Loop.
+    """Run one full pass of the FDE Loop.
 
     OBSERVE + ELICIT + INDUCE + ACT always run. ATTRIBUTION + EVOLVE run when
     `actions`/`outcomes` are supplied (the example provides synthetic ones).

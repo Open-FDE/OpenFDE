@@ -1,4 +1,4 @@
-"""openfde — the Apprentice Loop, on the command line.
+"""openfde — the FDE Loop, on the command line.
 
     openfde loop --example sales-qualification   # run OBSERVE→...→EVOLVE end to end
     openfde observe trace.jsonl                   # detect critical incidents in a trace
@@ -25,7 +25,7 @@ from .loop.observe import observe
 from .schema.judgment_unit import JudgmentUnit
 from .schema.trace import EventType, Trace, TraceEvent
 
-app = typer.Typer(add_completion=False, help="OpenFDE — the Apprentice Loop for enterprise FDE agents.")
+app = typer.Typer(add_completion=False, help="OpenFDE — the FDE Loop for enterprise agents.")
 console = Console()
 
 
@@ -42,7 +42,7 @@ def loop(
     out: Optional[Path] = typer.Option(None, "--out", "-o", help="Directory to write the judgment library + agent config."),
     ledger: Optional[Path] = typer.Option(None, "--ledger", help="Path for the append-only attribution ledger (JSONL)."),
 ) -> None:
-    """Run one full pass of the Apprentice Loop on a built-in example."""
+    """Run one full pass of the FDE Loop on a built-in example."""
     if example not in EXAMPLES:
         console.print(f"[red]Unknown example '{example}'.[/] Available: {', '.join(EXAMPLES)}")
         raise typer.Exit(1)
@@ -147,7 +147,7 @@ def schema(
 # rendering + IO helpers
 # --------------------------------------------------------------------------- #
 def _render(result, example: str) -> None:
-    console.rule(f"[bold]OpenFDE Apprentice Loop[/] · example: {example}")
+    console.rule(f"[bold]OpenFDE · FDE Loop[/] · example: {example}")
 
     # OBSERVE
     t = Table(title="① OBSERVE — critical incidents", show_lines=False)

@@ -35,7 +35,7 @@
 | 🗺️ **FDE 所需工具地图** | 以"AI-native FDE 团队 = 小人类核心 + agent 舰队"为视角，覆盖市场→签约→设计→开发→上线→运维全生命周期，含产品化底座、模型舰队与 AI 硬件选型 |
 | 📚 **参考资料库** | 一手资料按可信度分层：**1,550 检索 → 1,251 去重 → 663 核实**（"核实"= 真实打开过或权威规范链接，绝不为凑数编造） |
 | 🧱 **开源 FDE 工具**（建设中） | 把地图里 ⭐ 必备的 agent 工具 fork / 改造成 FDE 专用 |
-| 🤖 **OpenFDE Agent · Apprentice Loop** | 面向企业现场的原位学徒层：`OBSERVE → ELICIT → INDUCE → ACT → EVOLVE` + DEPLOY/ATTRIBUTION 两个面。以 **Judgment Unit** 为核心原语，开源协议、留空护城河。见 [`agent/`](./agent) |
+| 🤖 **OpenFDE Agent · FDE Loop** | 面向企业现场的原位 FDE 层：`OBSERVE → ELICIT → INDUCE → ACT → EVOLVE` + DEPLOY/ATTRIBUTION 两个面。以 **Judgment Unit** 为核心原语，开源协议、留空护城河。见 [`agent/`](./agent) |
 
 > 完整内容见 **[open-fde.com](https://open-fde.com)**。
 

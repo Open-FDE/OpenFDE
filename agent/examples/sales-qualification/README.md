@@ -1,7 +1,7 @@
 # Example: sales-qualification
 
 A synthetic, fully **desensitized** scenario — no real customer data — that drives
-the whole Apprentice Loop end to end. Run it:
+the whole FDE Loop end to end. Run it:
 
 ```bash
 openfde loop --example sales-qualification

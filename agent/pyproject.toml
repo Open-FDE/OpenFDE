@@ -5,12 +5,12 @@ build-backend = "hatchling.build"
 [project]
 name = "openfde"
 version = "0.1.0"
-description = "The Apprentice Loop — an in-situ apprenticeship layer that learns tacit expert judgment on-site. OBSERVE → ELICIT → INDUCE → ACT → EVOLVE."
+description = "The FDE Loop — an in-situ FDE layer that learns tacit expert judgment on-site. OBSERVE → ELICIT → INDUCE → ACT → EVOLVE."
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [{ name = "OpenFDE" }]
-keywords = ["fde", "agent", "apprenticeship", "judgment-unit", "elicitation", "enterprise-ai"]
+keywords = ["fde", "agent", "forward-deployed-engineer", "judgment-unit", "elicitation", "enterprise-ai"]
 
 # The main repo keeps only a thin, low-dependency core.
 # Heavy runtimes (LangGraph, Mem0, GEPA, Graphiti, browser-use ...) are

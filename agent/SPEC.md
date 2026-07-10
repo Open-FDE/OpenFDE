@@ -1,7 +1,7 @@
 # OpenFDE Specifications v0.1
 
 Two standards OpenFDE wants to make open, because standardizing them is what lets
-an ecosystem grow around the Apprentice Loop:
+an ecosystem grow around the FDE Loop:
 
 1. the **Judgment Unit Schema** — the artifact
 2. the **Elicitation Protocol** — how the artifact is produced

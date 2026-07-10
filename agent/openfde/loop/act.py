@@ -108,7 +108,7 @@ def compile_judgments(
     connectors = connectors or []
 
     preamble = (
-        f"You are an OpenFDE apprentice agent for the '{domain}' domain of project "
+        f"You are an OpenFDE agent — a forward-deployed engineer (FDE) for the '{domain}' domain of project "
         f"'{project}'. You act on Judgment Units distilled from a domain expert. "
         "Respect each judgment's autonomy tier: at 'suggest' you only surface the "
         "judgment; at 'approve' you propose an action and wait for a human; at "

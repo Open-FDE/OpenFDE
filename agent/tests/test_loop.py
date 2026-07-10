@@ -1,4 +1,4 @@
-"""End-to-end smoke tests for the Apprentice Loop (fully offline, deterministic)."""
+"""End-to-end smoke tests for the FDE Loop (fully offline, deterministic)."""
 from __future__ import annotations
 
 from openfde import run_loop
@@ -47,7 +47,7 @@ def test_act_compiles_a_governed_config():
     result = _run()
     cfg = result.agent_config
     assert cfg is not None
-    assert "apprentice" in cfg.system_prompt.lower()
+    assert "forward-deployed" in cfg.system_prompt.lower()
     # the mock CRM write op must be approval-gated in the compiled tool policy
     write_ops = [t for t in cfg.tools if t.operation == "crm.update_stage"]
     assert write_ops and write_ops[0].requires_approval

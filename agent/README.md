@@ -1,8 +1,8 @@
 <div align="center">
 
-# OpenFDE Agent — the Apprentice Loop
+# OpenFDE Agent — the FDE Loop
 
-**An in-situ apprenticeship layer that sits *above* agent runtimes.**
+**An in-situ FDE layer that sits *above* agent runtimes.**
 It watches an expert's real work, asks *why* at the moments that matter, distills
 that into reusable **Judgment Units**, acts with graduated autonomy, and evolves
 on real business outcomes.
@@ -34,7 +34,7 @@ out plainly: *experts know more than they can tell.* A copilot that captures
 OpenFDE's bet: the unit of enterprise value is not a chatbot, a workflow, or a
 memory store — it is a **Judgment Unit**, and the loop that produces one.
 
-## The Apprentice Loop (5 + 2)
+## The FDE Loop (5 + 2)
 
 ```
   DEPLOY plane  ───────────────────────────────────────────────  (in-situ: connectors · auth · audit)

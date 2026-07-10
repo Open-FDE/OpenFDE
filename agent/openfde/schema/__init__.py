@@ -1,4 +1,4 @@
-"""OpenFDE schemas — the open standards at the heart of the Apprentice Loop.
+"""OpenFDE schemas — the open standards at the heart of the FDE Loop.
 
 The two flagship standards OpenFDE wants to make open are the **Judgment Unit
 Schema** and the **Elicitation Protocol**. See SPEC.md.
