@@ -6,7 +6,7 @@
 
 **Nest on the customer's site, and turn frontier models into production systems.**
 
-Open knowledge base & Agent for **Forward Deployed Engineers (FDE)** · EST. 2026
+Open knowledge base & tooling for **Forward Deployed Engineers (FDE)** · EST. 2026
 
 [![Website](https://img.shields.io/badge/website-open--fde.com-0a0a0a)](https://open-fde.com)
 [![Docs License](https://img.shields.io/badge/docs-CC%20BY--SA%204.0-blue)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -37,7 +37,7 @@ The swift is our mark: it spends almost its whole life in flight, yet it "nests"
 | 🗺️ **The FDE Tooling Map** | Framed as "AI-native FDE team = small human core + fleet of agents," covering the full lifecycle market → contract → design → build → launch → operate, including the productization base, the model fleet, and AI hardware selection |
 | 📚 **Reference Library** | First-hand material tiered by credibility: **1,550 retrieved → 1,251 de-duplicated → 663 verified** ("verified" = actually opened, or an authoritative spec link; never fabricated to pad the count) |
 | 🧱 **Open-source FDE tools** (in progress) | Fork / adapt the ⭐ must-have agent tools from the map into FDE-specific ones |
-| 🤖 **OpenFDE Agent · FDE Loop** | An in-situ FDE layer for the enterprise site: `OBSERVE → ELICIT → INDUCE → ACT → EVOLVE` + the DEPLOY / ATTRIBUTION planes. Built around the **Judgment Unit** as its core primitive; open protocol, moat left blank. See [`agent/`](./agent) |
+| 🤖 **FDE Agent · FDE Loop** | An executable agent runtime for the enterprise site: `OBSERVE → ELICIT → INDUCE → ACT → EVOLVE` + DEPLOY / ATTRIBUTION. Connect MCP, Feishu, Slack, CRM, and databases with approval gates, audit trails, and reusable skills. See **[Open-FDE/FDEAgent](https://github.com/Open-FDE/FDEAgent)**. |
 
 > Full content at **[open-fde.com](https://open-fde.com)**.
 

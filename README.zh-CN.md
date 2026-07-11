@@ -6,7 +6,7 @@
 
 **在客户现场筑巢，把前沿模型变成生产系统。**
 
-面向**前线部署工程师（Forward Deployed Engineer, FDE）**的开源知识库与工具 · EST. 2026
+面向**前线部署工程师（Forward Deployed Engineer, FDE）**的开源知识库与工具生态 · EST. 2026
 
 [![Website](https://img.shields.io/badge/网站-open--fde.com-0a0a0a)](https://open-fde.com)
 [![Docs License](https://img.shields.io/badge/文档-CC%20BY--SA%204.0-blue)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -37,7 +37,7 @@
 | 🗺️ **FDE 所需工具地图** | 以"AI-native FDE 团队 = 小人类核心 + agent 舰队"为视角，覆盖市场→签约→设计→开发→上线→运维全生命周期，含产品化底座、模型舰队与 AI 硬件选型 |
 | 📚 **参考资料库** | 一手资料按可信度分层：**1,550 检索 → 1,251 去重 → 663 核实**（"核实"= 真实打开过或权威规范链接，绝不为凑数编造） |
 | 🧱 **开源 FDE 工具**（建设中） | 把地图里 ⭐ 必备的 agent 工具 fork / 改造成 FDE 专用 |
-| 🤖 **OpenFDE Agent · FDE Loop** | 面向企业现场的原位 FDE 层：`OBSERVE → ELICIT → INDUCE → ACT → EVOLVE` + DEPLOY/ATTRIBUTION 两个面。以 **Judgment Unit** 为核心原语，开源协议、留空护城河。见 [`agent/`](./agent) |
+| 🤖 **FDE Agent · FDE Loop** | 面向企业现场的可执行 Agent runtime：`OBSERVE → ELICIT → INDUCE → ACT → EVOLVE` + DEPLOY/ATTRIBUTION。连接 MCP、飞书、Slack、CRM 和数据库，内置审批、审计和可复用 skills。见 **[Open-FDE/FDEAgent](https://github.com/Open-FDE/FDEAgent)**。 |
 
 > 完整内容见 **[open-fde.com](https://open-fde.com)**。
 
